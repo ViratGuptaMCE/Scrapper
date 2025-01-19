@@ -3,7 +3,6 @@
 # import time
 import requests
 from urllib.parse import urlparse
-import json
 from selenium.webdriver import Remote, ChromeOptions
 from selenium.webdriver.chromium.remote_connection import ChromiumRemoteConnection
 from selenium.webdriver.common.by import By
