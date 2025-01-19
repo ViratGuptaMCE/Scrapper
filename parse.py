@@ -1,6 +1,11 @@
 from langchain_ollama import OllamaLLM
 from langchain_core.prompts import ChatPromptTemplate
 import google.generativeai as genai
+import os 
+from dotenv import load_dotenv
+
+load_dotenv()
+gemini_api_key = os.getenv('GEMINI_KEY')
 
 template = (
   "You are tasked with extracting specific information from the following text content: {dom_content}. "
@@ -33,7 +38,7 @@ def parse_with_ollama(html_content):
   # return "\n".join(parsed_results)
 
 def parse_with_gemini(html_content): 
-  genai.configure(api_key='AIzaSyCd8K77ZBX48K1lSDl0Tok60YfHQZ8K2-0') 
+  genai.configure(api_key=gemini_api_key) 
   prompt = ( "suggest improvement for website or is there any issue with it {html_content} is providen to you" ) 
   model = genai.GenerativeModel("gemini-1.5-flash")
   response = model.generate_content( prompt.format(html_content=html_content, parse_description="suggest improvement for website or is there any issue with it") ) 

@@ -1,6 +1,1358 @@
-<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><link rel="stylesheet" href="/_next/static/css/4af24c0f4b950823.css" data-precedence="next"/><link rel="stylesheet" href="/_next/static/css/91ed683cfcd9c678.css" data-precedence="next"/><link rel="stylesheet" href="/_next/static/css/fcd78547ca317e4b.css" data-precedence="next"/><link rel="stylesheet" href="/_next/static/css/3441ed19eac00c8e.css" data-precedence="next"/><link rel="preload" as="script" fetchPriority="low" nonce="NTYzODZhZjktYzdlMy00MDM1LThiZjUtNjBmYTM0NGUyOWUx" href="/_next/static/chunks/webpack-193d133cd95da499.js"/><script src="/_next/static/chunks/fd9d1056-e786797eea86e619.js" async="" nonce="NTYzODZhZjktYzdlMy00MDM1LThiZjUtNjBmYTM0NGUyOWUx"></script><script src="/_next/static/chunks/2117-a91bfc425eea5137.js" async="" nonce="NTYzODZhZjktYzdlMy00MDM1LThiZjUtNjBmYTM0NGUyOWUx"></script><script src="/_next/static/chunks/main-app-8e6aab12f57cc5e5.js" async="" nonce="NTYzODZhZjktYzdlMy00MDM1LThiZjUtNjBmYTM0NGUyOWUx"></script><script src="/_next/static/chunks/2972-c27c815a111ce96b.js" async="" nonce="NTYzODZhZjktYzdlMy00MDM1LThiZjUtNjBmYTM0NGUyOWUx"></script><script src="/_next/static/chunks/app/(website)/layout-a9b2769c29546786.js" async="" nonce="NTYzODZhZjktYzdlMy00MDM1LThiZjUtNjBmYTM0NGUyOWUx"></script><script src="/_next/static/chunks/2407-b2b5b88ff882c842.js" async="" nonce="NTYzODZhZjktYzdlMy00MDM1LThiZjUtNjBmYTM0NGUyOWUx"></script><script src="/_next/static/chunks/6061-6193410b36935888.js" async="" nonce="NTYzODZhZjktYzdlMy00MDM1LThiZjUtNjBmYTM0NGUyOWUx"></script><script src="/_next/static/chunks/app/page-0327bddca8230c4f.js" async="" nonce="NTYzODZhZjktYzdlMy00MDM1LThiZjUtNjBmYTM0NGUyOWUx"></script><script src="/_next/static/chunks/app/error-0536c6b6eaed1df8.js" async="" nonce="NTYzODZhZjktYzdlMy00MDM1LThiZjUtNjBmYTM0NGUyOWUx"></script><title>xAI</title><meta name="description" content="xAI is an AI company with the mission of advancing scientific discovery and gaining a deeper understanding of our universe."/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="xAI"/><meta name="twitter:description" content="xAI is an AI company with the mission of advancing scientific discovery and gaining a deeper understanding of our universe."/><meta name="twitter:image:type" content="image/png"/><meta name="twitter:image:width" content="1911"/><meta name="twitter:image:height" content="1000"/><meta name="twitter:image" content="https://x.ai/twitter-image.png?77e49583aef22766"/><link rel="icon" href="/favicon.ico" type="image/x-icon" sizes="32x32"/><link rel="icon" href="/icon.svg?2f55916d3a05ba17" type="image/svg+xml" sizes="any"/><link rel="apple-touch-icon" href="/apple-icon.png?d82460d2a9afe67b" type="image/png" sizes="180x180"/><meta name="next-size-adjust"/><script src="/_next/static/chunks/polyfills-42372ed130431b0a.js" noModule="" nonce="NTYzODZhZjktYzdlMy00MDM1LThiZjUtNjBmYTM0NGUyOWUx"></script></head><body><div class="site-header_placeholder__KcA86 "></div><header class="site-header_header__PTnp0 "><div class="xai-container"><div class="site-header_foreground__etqdK"><div class="site-header_logo__QGAGJ"><a class="site-header_logoLink__9rqP5" href="/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="32" height="32"><g><polygon fill="#fff" points="226.83 411.15 501.31 803.15 623.31 803.15 348.82 411.15 226.83 411.15"></polygon><polygon fill="#fff" points="348.72 628.87 226.69 803.15 348.77 803.15 409.76 716.05 348.72 628.87"></polygon><polygon fill="#fff" points="651.23 196.85 440.28 498.12 501.32 585.29 773.31 196.85 651.23 196.85"></polygon><polygon fill="#fff" points="673.31 383.25 673.31 803.15 773.31 803.15 773.31 240.44 673.31 383.25"></polygon></g></svg></a></div><nav class="site-header_mainNav__M1I3L d-none d-sm-flex"><a class="
-         " href="/grok">Grok</a><a class="
-         " href="/api">API</a><a class="
-         " href="/blog">Blog</a><a class="
-         " href="/about">About</a><a class="
-         " href="/careers">Careers</a></nav><section class="site-header_integrations__Za5ws d-none d-sm-flex"></section><div class="d-block d-sm-none"><section class="site-header_integrations__Za5ws"><button class="site-header_menuBtn__iQKk8">Menu</button></section></div></div></div></header><div class="xai-container"><section class="grok-outline-teaser_teaser__opHLa"><div class="row"><div class="col-sm-10 offset-sm-1"><div class="grok-outline-teaser_grok__Zcb_U"><div class="grok-outline_logo__Oi8QD"><svg class="grok-outline_outline__pwT8v" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1050 325.07"><mask id="stroke"><rect x="0" y="0" width="1050" height="325.07" fill="#fff"></rect><path class="grok-outline_dash__8_zAL" fill="#fff" d="m5,162.92c0-27.97,4.83-52.77,14.5-74.39,9.66-21.61,23.78-38.53,42.35-50.74,18.56-12.21,41.07-18.31,67.53-18.31,31.28,0,55.38,7.25,72.3,21.75,16.91,14.5,28.04,33.83,33.38,57.99l-41.59,6.11c-3.82-15.01-10.37-27.09-19.65-36.24-9.29-9.16-24.1-13.73-44.45-13.73-18.57,0-33.76,4.64-45.59,13.92-11.83,9.29-20.6,22-26.32,38.15-5.72,16.15-8.58,34.53-8.58,55.13,0,32.56,6.87,58.5,20.6,77.83,13.74,19.33,35.23,29,64.48,29,12.71,0,24.73-1.53,36.05-4.58,11.31-3.05,21.42-7.76,30.33-14.12v-59.14h-64.48v-35.48h103.77v111.78c-13.73,12.47-30.2,21.88-49.41,28.23-19.21,6.35-38.22,9.54-57.04,9.54-40.7,0-72.24-12.59-94.62-37.77-22.38-25.18-33.57-60.15-33.57-104.92Z"></path><path class="grok-outline_dash__8_zAL" stroke="#000" fill="#fff" d="m289.99,26.34h93.09c20.09,0,36.68,2.16,49.79,6.48,13.1,4.33,23.46,10.24,31.09,17.74,7.63,7.5,13.03,15.97,16.21,25.37,3.18,9.41,4.77,19.08,4.77,28.99,0,17.3-3.62,32.18-10.87,44.64-7.25,12.47-18.76,22.26-34.53,29.38l56.84,119.8h-46.16l-50.36-110.26c-3.05.26-6.17.45-9.35.57-3.18.13-6.17.19-8.97.19h-50.36v109.49h-41.2V26.34Zm152.99,80.12c0-9.66-1.78-17.93-5.34-24.8-3.56-6.87-9.86-12.08-18.89-15.64-9.03-3.56-21.56-5.34-37.58-5.34h-49.98v93.85h54.17c15,0,26.71-1.97,35.1-5.91,8.39-3.94,14.24-9.47,17.55-16.6,3.3-7.12,4.96-15.64,4.96-25.56Z"></path><path class="grok-outline_dash__8_zAL" fill="#fff" d="m522.33,162.92c0-30.52,5.4-56.46,16.21-77.83,10.81-21.36,25.75-37.64,44.83-48.83,19.08-11.19,41.2-16.79,66.38-16.79s47.62,5.53,66.57,16.6c18.94,11.07,33.7,27.15,44.26,48.26,10.55,21.11,15.83,46.93,15.83,77.45s-5.22,56.53-15.64,78.02c-10.43,21.5-25.18,37.84-44.26,49.02-19.08,11.19-41.46,16.79-67.15,16.79s-47.31-5.53-66.38-16.6c-19.08-11.06-33.95-27.21-44.64-48.45-10.68-21.23-16.02-47.12-16.02-77.64Zm43.87-.38c0,32.56,6.93,58.44,20.79,77.64,13.86,19.21,34.65,28.81,62.38,28.81s47.88-9.6,62-28.81c14.12-19.2,21.17-45.08,21.17-77.64s-7.06-58.11-21.17-77.45c-14.12-19.32-34.78-28.99-62-28.99s-48.52,9.67-62.38,28.99c-13.86,19.33-20.79,45.15-20.79,77.45Z"></path><path class="grok-outline_dash__8_zAL" fill="#fff" d="m825.25,26.34h42.73v125.9l120.18-125.9h46.93l-95.38,101.86,105.3,170.54h-48.07l-87.37-141.92-41.59,43.11v98.81h-42.73V26.34Z"></path></mask><rect x="0" y="0" width="1050" height="325.07" mask="url(#stroke)" fill="#050505"></rect></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 653.8 760" class="grok-outline_outline__pwT8v grok-outline_xs__3_aKz"><mask id="stroke2"><rect x="0" y="0" width="653.8" height="760" fill="#fff"></rect><path fill="#fff" class="grok-outline_dash__8_zAL" d="m27.03,181.69c0-34.46,5.95-65,17.86-91.64,11.9-26.62,29.29-47.46,52.16-62.5,22.87-15.04,50.59-22.56,83.18-22.56,38.53,0,68.21,8.93,89.05,26.79,20.83,17.86,34.54,41.67,41.12,71.43l-51.22,7.52c-4.7-18.48-12.77-33.36-24.2-44.64-11.44-11.28-29.69-16.92-54.75-16.92-22.87,0-41.59,5.72-56.16,17.15-14.57,11.44-25.38,27.1-32.43,46.99-7.05,19.9-10.57,42.53-10.57,67.9,0,40.11,8.46,72.06,25.38,95.87,16.92,23.81,43.39,35.71,79.42,35.71,15.66,0,30.46-1.88,44.41-5.64,13.94-3.76,26.39-9.55,37.36-17.39v-72.84h-79.42v-43.7h127.82v137.69c-16.92,15.35-37.2,26.95-60.86,34.77-23.66,7.83-47.07,11.75-70.25,11.75-50.13,0-88.98-15.51-116.54-46.52-27.57-31.02-41.35-74.09-41.35-129.23Z"></path><path fill="#fff" class="grok-outline_dash__8_zAL" d="m378.06,13.46h114.66c24.74,0,45.19,2.67,61.33,7.99,16.13,5.33,28.9,12.61,38.3,21.85,9.4,9.24,16.05,19.66,19.97,31.25,3.91,11.59,5.87,23.5,5.87,35.71,0,21.31-4.46,39.64-13.39,54.98-8.93,15.35-23.11,27.42-42.53,36.18l70.02,147.56h-56.86l-62.03-135.81c-3.76.32-7.6.55-11.51.71-3.92.16-7.6.23-11.04.23h-62.03v134.87h-50.75V13.46Zm188.44,98.68c0-11.9-2.19-22.09-6.58-30.54-4.39-8.46-12.15-14.88-23.26-19.27-11.12-4.38-26.55-6.58-46.29-6.58h-61.56v115.6h66.73c18.48,0,32.9-2.42,43.23-7.28,10.34-4.85,17.54-11.67,21.62-20.44,4.07-8.77,6.11-19.27,6.11-31.49Z"></path><path fill="#fff" class="grok-outline_dash__8_zAL" d="m5,579.25c0-37.59,6.65-69.55,19.97-95.87,13.31-26.32,31.72-46.36,55.22-60.15,23.5-13.78,50.75-20.68,81.77-20.68s58.66,6.81,82,20.44c23.33,13.63,41.51,33.44,54.51,59.44,13,26.01,19.5,57.8,19.5,95.4s-6.43,69.63-19.27,96.1c-12.85,26.48-31.02,46.6-54.51,60.38-23.5,13.78-51.07,20.68-82.71,20.68s-58.27-6.82-81.77-20.44c-23.5-13.63-41.82-33.52-54.98-59.68-13.16-26.15-19.74-58.04-19.74-95.63Zm54.04-.47c0,40.1,8.53,71.98,25.61,95.63,17.07,23.66,42.68,35.48,76.83,35.48s58.98-11.82,76.36-35.48c17.39-23.65,26.08-55.52,26.08-95.63s-8.69-71.58-26.08-95.4c-17.39-23.8-42.84-35.71-76.36-35.71s-59.76,11.91-76.83,35.71c-17.08,23.81-25.61,55.61-25.61,95.4Z"></path><path fill="#fff" class="grok-outline_dash__8_zAL" d="m378.12,411.01h52.63v155.08l148.03-155.08h57.8l-117.48,125.47,129.7,210.06h-59.21l-107.61-174.81-51.22,53.1v121.71h-52.63v-335.53Z"></path></mask><rect x="0" y="0" width="653.8" height="760" mask="url(#stroke2)" fill="#050505"></rect></svg><div class="grok-outline_spacer__QUjne"></div><div class="grok-outline_gradient__7rtND"></div><div class="grok-outline_mouseMask__7FiGB"><img alt="" loading="lazy" width="200" height="200" decoding="async" data-nimg="1" style="color:transparent" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcursor_mask.46df87d7.png&amp;w=256&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcursor_mask.46df87d7.png&amp;w=640&amp;q=75 2x" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcursor_mask.46df87d7.png&amp;w=640&amp;q=75"/></div><div class="grok-outline_mouseMask__7FiGB grok-outline_second__bX4_B"><img alt="" loading="lazy" width="200" height="200" decoding="async" data-nimg="1" style="color:transparent" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcursor_mask.46df87d7.png&amp;w=256&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcursor_mask.46df87d7.png&amp;w=640&amp;q=75 2x" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcursor_mask.46df87d7.png&amp;w=640&amp;q=75"/></div><div class="grok-outline_mouseMask__7FiGB grok-outline_third__zcD0B"><img alt="" loading="lazy" width="200" height="200" decoding="async" data-nimg="1" style="color:transparent" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcursor_mask.46df87d7.png&amp;w=256&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcursor_mask.46df87d7.png&amp;w=640&amp;q=75 2x" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcursor_mask.46df87d7.png&amp;w=640&amp;q=75"/></div></div></div></div></div><section class="grok-outline-teaser_signIn__SODHJ"><h1>Bringing Grok to Everyone</h1><div><a class="grok-outline-teaser_goToGrok__dU9ZY" href="/blog/grok-1212">Learn more</a><a class="grok-outline-teaser_goToGrok__dU9ZY" href="https://x.com/i/grok?focus=1">Try now on 𝕏 <style data-emotion="css vubbuv">.css-vubbuv{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:1em;height:1em;display:inline-block;fill:currentColor;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;-webkit-transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;font-size:1.5rem;}</style><svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv" focusable="false" aria-hidden="true" viewBox="0 0 24 24" data-testid="ArrowOutwardIcon"><path d="M6 6v2h8.59L5 17.59 6.41 19 16 9.41V18h2V6z"></path></svg></a></div></section></section></div><div class="pb-4 pt-4 content-box_wrapper___f519 content-box_transparent__mGBKd"><div class="xai-container"><main class="[object Object]"><div class="heading_readMore__Win4C"><h1>Blog</h1><div class="heading_line__PRk5Q"></div><a href="/blog">View all articles</a></div><div class="row row-gap-5"><div class="col-md-4"><h2 class="page_slogan__T_fkj">Read about our latest announcements</h2></div><div class="col-md-4 col-sm-6"><section class="blog-teaser_blogTeaser__iN_2M"><div class="blog-teaser_img__xBa_M"><a href="blog/series-c"><img alt="The outline of the letter C stylized with blue horizontal and vertical motion blur." loading="lazy" width="750" height="750" decoding="async" data-nimg="1" class="img-fluid" style="color:transparent" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fseries_c.0038650f.png&amp;w=750&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fseries_c.0038650f.png&amp;w=1920&amp;q=75 2x" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fseries_c.0038650f.png&amp;w=1920&amp;q=75"/></a><div class="blog-teaser_timestamp__hb6gF"><p>December 23, 2024</p></div></div><div class="blog-teaser_content__FFQX2"><a class="blog-teaser_heading__KWHU_" href="blog/series-c"><h4>xAI raises $6B Series C</h4><style data-emotion="css 1k33q06">.css-1k33q06{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:1em;height:1em;display:inline-block;fill:currentColor;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;-webkit-transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;font-size:1.25rem;}</style><svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall css-1k33q06" focusable="false" aria-hidden="true" viewBox="0 0 24 24" data-testid="ArrowOutwardIcon"><path d="M6 6v2h8.59L5 17.59 6.41 19 16 9.41V18h2V6z"></path></svg></a><p class="blog-teaser_text__jbhwi">We are partnering with A16Z, Blackrock, Fidelity Management &amp; Research Company, Kingdom Holdings, Lightspeed, MGX, Morgan Stanley, OIA, QIA, Sequoia Capital, Valor Equity Partners and Vy Capital, amongst others.</p></div></section></div><div class="col-md-4 col-sm-6"><section class="blog-teaser_blogTeaser__iN_2M"><div class="blog-teaser_img__xBa_M"><a href="blog/grok-1212"><img alt="An illustration of the word xAI Grok: Pondering the future, one star at a time" loading="lazy" width="750" height="750" decoding="async" data-nimg="1" class="img-fluid" style="color:transparent" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgrok-1211.b971c93c.webp&amp;w=750&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgrok-1211.b971c93c.webp&amp;w=1920&amp;q=75 2x" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgrok-1211.b971c93c.webp&amp;w=1920&amp;q=75"/></a><div class="blog-teaser_timestamp__hb6gF"><p>December 12, 2024</p></div></div><div class="blog-teaser_content__FFQX2"><a class="blog-teaser_heading__KWHU_" href="blog/grok-1212"><h4>Bringing Grok to Everyone</h4><style data-emotion="css 1k33q06">.css-1k33q06{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:1em;height:1em;display:inline-block;fill:currentColor;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;-webkit-transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;font-size:1.25rem;}</style><svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall css-1k33q06" focusable="false" aria-hidden="true" viewBox="0 0 24 24" data-testid="ArrowOutwardIcon"><path d="M6 6v2h8.59L5 17.59 6.41 19 16 9.41V18h2V6z"></path></svg></a><p class="blog-teaser_text__jbhwi">Grok is now faster, sharper, and has improved multilingual support. It is available to everyone on the 𝕏 platform. </p></div></section></div></div><div class="heading_readMore__Win4C"><h1>Careers</h1><div class="heading_line__PRk5Q"></div><a href="/careers">View open roles</a></div><div class="row row-gap-5"><div class="col-sm-4"><h2 class="page_slogan__T_fkj">Work with us to create a better future</h2></div><div class="col-sm-8"><ul class="careers-teaser_careers__zZ6KP"><li><div class="careers-teaser_loader__X05HV"></div></li><li><div class="careers-teaser_loader__X05HV"></div></li><li><div class="careers-teaser_loader__X05HV"></div></li></ul></div></div><div class="heading_readMore__Win4C"><h1>Developers</h1><div class="heading_line__PRk5Q"></div></div><div class="row row-gap-5"><div class="col-sm-4"><h2 class="page_slogan__T_fkj">Start building with Grok</h2></div><div class="col-sm"><a target="_blank" class="product-teaser_teaser__fjsiL" href="https://console.x.ai/"><div class="product-teaser_header__xn5w8"><h1>Cloud Console</h1><span class="xai-arrow"><style data-emotion="css vubbuv">.css-vubbuv{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:1em;height:1em;display:inline-block;fill:currentColor;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;-webkit-transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;font-size:1.5rem;}</style><svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv" focusable="false" aria-hidden="true" viewBox="0 0 24 24" data-testid="ArrowForwardIcon"><path d="m12 4-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"></path></svg></span></div><p>Prepare to integrate Grok by setting up our API.</p></a></div><div class="col-auto d-none d-sm-block"><div class="product-teaser_line__eZNpd"></div></div><div class="col-sm"><a target="_blank" class="product-teaser_teaser__fjsiL" href="https://docs.x.ai"><div class="product-teaser_header__xn5w8"><h1>Developer Docs</h1><span class="xai-arrow"><style data-emotion="css vubbuv">.css-vubbuv{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:1em;height:1em;display:inline-block;fill:currentColor;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;-webkit-transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;font-size:1.5rem;}</style><svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv" focusable="false" aria-hidden="true" viewBox="0 0 24 24" data-testid="ArrowForwardIcon"><path d="m12 4-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"></path></svg></span></div><p>Learn more about Grok and its capabilities.</p></a></div></div><div class="page_bottomSpacer__vts_l"></div></main></div></div><footer><div class="xai-container"><div class="site-footer_footer___c5T3"><div class="col-sm-auto"><a href="/grok">Grok</a></div><div class="col-sm-auto"><a href="/api">API</a></div><div class="col-sm-auto"><a href="/legal">Legal</a></div></div></div></footer><script src="/_next/static/chunks/webpack-193d133cd95da499.js" nonce="NTYzODZhZjktYzdlMy00MDM1LThiZjUtNjBmYTM0NGUyOWUx" async=""></script><script nonce="NTYzODZhZjktYzdlMy00MDM1LThiZjUtNjBmYTM0NGUyOWUx">(self.__next_f=self.__next_f||[]).push([0]);self.__next_f.push([2,null])</script><script nonce="NTYzODZhZjktYzdlMy00MDM1LThiZjUtNjBmYTM0NGUyOWUx">self.__next_f.push([1,"1:HL[\"/_next/static/css/4af24c0f4b950823.css\",\"style\"]\n2:HL[\"/_next/static/css/91ed683cfcd9c678.css\",\"style\"]\n3:HL[\"/_next/static/css/fcd78547ca317e4b.css\",\"style\"]\n4:HL[\"/_next/static/css/3441ed19eac00c8e.css\",\"style\"]\n"])</script><script nonce="NTYzODZhZjktYzdlMy00MDM1LThiZjUtNjBmYTM0NGUyOWUx">self.__next_f.push([1,"5:I[12846,[],\"\"]\na:I[61060,[],\"\"]\nb:[]\n0:[\"$\",\"$L5\",null,{\"buildId\":\"y6lQMNrpJX6-2-OG2p_6D\",\"assetPrefix\":\"\",\"urlParts\":[\"\",\"\"],\"initialTree\":[\"\",{\"children\":[\"__PAGE__\",{}]},\"$undefined\",\"$undefined\",true],\"initialSeedData\":[\"\",{\"children\":[\"__PAGE__\",{},[[\"$L6\",\"$L7\",[[\"$\",\"link\",\"0\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/css/fcd78547ca317e4b.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\"}],[\"$\",\"link\",\"1\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/css/3441ed19eac00c8e.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\"}]]],null],null]},[[[[\"$\",\"link\",\"0\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/css/4af24c0f4b950823.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\"}],[\"$\",\"link\",\"1\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/css/91ed683cfcd9c678.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\"}]],\"$L8\"],null],null],\"couldBeIntercepted\":false,\"initialHead\":[null,\"$L9\"],\"globalErrorComponent\":\"$a\",\"missingSlots\":\"$Wb\"}]\n"])</script><script nonce="NTYzODZhZjktYzdlMy00MDM1LThiZjUtNjBmYTM0NGUyOWUx">self.__next_f.push([1,"c:I[77685,[\"2972\",\"static/chunks/2972-c27c815a111ce96b.js\",\"2056\",\"static/chunks/app/(website)/layout-a9b2769c29546786.js\"],\"default\"]\nd:I[60080,[\"2407\",\"static/chunks/2407-b2b5b88ff882c842.js\",\"2972\",\"static/chunks/2972-c27c815a111ce96b.js\",\"6061\",\"static/chunks/6061-6193410b36935888.js\",\"1931\",\"static/chunks/app/page-0327bddca8230c4f.js\"],\"default\"]\ne:I[72972,[\"2972\",\"static/chunks/2972-c27c815a111ce96b.js\",\"2056\",\"static/chunks/app/(website)/layout-a9b2769c29546786.js\"],\"\"]\nf:I[65878,[\"2407\",\"static/chunks/2407-b2b5b88ff882c842.js\",\"2972\",\"static/chunks/2972-c27c815a111ce96b.js\",\"6061\",\"static/chunks/6061-6193410b36935888.js\",\"1931\",\"static/chunks/app/page-0327bddca8230c4f.js\"],\"Image\"]\n10:I[3271,[\"2407\",\"static/chunks/2407-b2b5b88ff882c842.js\",\"2972\",\"static/chunks/2972-c27c815a111ce96b.js\",\"6061\",\"static/chunks/6061-6193410b36935888.js\",\"1931\",\"static/chunks/app/page-0327bddca8230c4f.js\"],\"default\"]\n11:I[67647,[\"2407\",\"static/chunks/2407-b2b5b88ff882c842.js\",\"2972\",\"static/chunks/2972-c27c815a111ce96b.js\",\"6061\",\"static/chunks/6061-6193410b36935888.js\",\"1931\",\"static/chunks/app/page-0327bddca8230c4f.js\"],\"default\"]\n12:I[81649,[\"2407\",\"static/chunks/2407-b2b5b88ff882c842.js\",\"2972\",\"static/chunks/2972-c27c815a111ce96b.js\",\"6061\",\"static/chunks/6061-6193410b36935888.js\",\"1931\",\"static/chunks/app/page-0327bddca8230c4f.js\"],\"default\"]\n13:I[4707,[],\"\"]\n14:I[72055,[\"2407\",\"static/chunks/2407-b2b5b88ff882c842.js\",\"2972\",\"static/chunks/2972-c27c815a111ce96b.js\",\"7601\",\"static/chunks/app/error-0536c6b6eaed1df8.js\"],\"default\"]\n15:I[36423,[],\"\"]\n16:I[85780,[\"2972\",\"static/chunks/2972-c27c815a111ce96b.js\",\"2056\",\"static/chunks/app/(website)/layout-a9b2769c29546786.js\"],\"default\"]\n"])</script><script nonce="NTYzODZhZjktYzdlMy00MDM1LThiZjUtNjBmYTM0NGUyOWUx">self.__next_f.push([1,"7:[[\"$\",\"$Lc\",null,{\"hideSignInUntilScroll\":true}],[\"$\",\"$Ld\",null,{}],[\"$\",\"div\",null,{\"className\":\"pb-4 pt-4 content-box_wrapper___f519 content-box_transparent__mGBKd\",\"children\":[\"$\",\"div\",null,{\"className\":\"xai-container\",\"children\":[\"$\",\"main\",null,{\"className\":\"[object Object]\",\"children\":[[\"$\",\"div\",null,{\"className\":\"heading_readMore__Win4C\",\"children\":[[\"$\",\"h1\",null,{\"id\":\"$undefined\",\"children\":\"Blog\"}],[\"$\",\"div\",null,{\"className\":\"heading_line__PRk5Q\"}],[\"$\",\"$Le\",null,{\"href\":\"/blog\",\"children\":\"View all articles\"}]]}],[\"$\",\"div\",null,{\"className\":\"row row-gap-5\",\"children\":[[\"$\",\"div\",null,{\"className\":\"col-md-4\",\"children\":[\"$\",\"h2\",null,{\"className\":\"page_slogan__T_fkj\",\"children\":\"Read about our latest announcements\"}]}],[\"$\",\"div\",null,{\"className\":\"col-md-4 col-sm-6\",\"children\":[\"$\",\"section\",null,{\"className\":\"blog-teaser_blogTeaser__iN_2M\",\"children\":[[\"$\",\"div\",null,{\"className\":\"blog-teaser_img__xBa_M\",\"children\":[[\"$\",\"$Le\",null,{\"href\":\"blog/series-c\",\"children\":[\"$\",\"$Lf\",null,{\"className\":\"img-fluid\",\"src\":{\"src\":\"/_next/static/media/series_c.0038650f.png\",\"height\":1000,\"width\":1000,\"blurDataURL\":\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAABlBMVEUAAgQDCQ5k+VXvAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIUlEQVR4nGNgQABGRkZGKAVmgnkMDIwMEBrEgEpAmUh6AQRgAB7udEp8AAAAAElFTkSuQmCC\",\"blurWidth\":8,\"blurHeight\":8},\"alt\":\"The outline of the letter C stylized with blue horizontal and vertical motion blur.\",\"height\":750,\"width\":750}]}],[\"$\",\"div\",null,{\"className\":\"blog-teaser_timestamp__hb6gF\",\"children\":[\"$\",\"p\",null,{\"children\":\"December 23, 2024\"}]}]]}],[\"$\",\"div\",null,{\"className\":\"blog-teaser_content__FFQX2\",\"children\":[[\"$\",\"$Le\",null,{\"href\":\"blog/series-c\",\"className\":\"blog-teaser_heading__KWHU_\",\"children\":[[\"$\",\"h4\",null,{\"children\":\"xAI raises $6B Series C\"}],[\"$\",\"$L10\",null,{\"fontSize\":\"small\"}]]}],[\"$\",\"p\",null,{\"className\":\"blog-teaser_text__jbhwi\",\"children\":\"We are partnering with A16Z, Blackrock, Fidelity Management \u0026 Research Company, Kingdom Holdings, Lightspeed, MGX, Morgan Stanley, OIA, QIA, Sequoia Capital, Valor Equity Partners and Vy Capital, amongst others.\"}]]}]]}]}],[\"$\",\"div\",null,{\"className\":\"col-md-4 col-sm-6\",\"children\":[\"$\",\"section\",null,{\"className\":\"blog-teaser_blogTeaser__iN_2M\",\"children\":[[\"$\",\"div\",null,{\"className\":\"blog-teaser_img__xBa_M\",\"children\":[[\"$\",\"$Le\",null,{\"href\":\"blog/grok-1212\",\"children\":[\"$\",\"$Lf\",null,{\"className\":\"img-fluid\",\"src\":{\"src\":\"/_next/static/media/grok-1211.b971c93c.webp\",\"height\":1000,\"width\":1000,\"blurDataURL\":\"data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAQCdASoIAAgAAkA4JZgCdAD5hLjyzYAA/oW6IYhGkpDlofSSG1E7G8hqoX5P9EjAZbN2NkoSPOMhUvufHUUl/FmXhY335N1QZHvIXYOZWTQAAAA=\",\"blurWidth\":8,\"blurHeight\":8},\"alt\":\"An illustration of the word xAI Grok: Pondering the future, one star at a time\",\"height\":750,\"width\":750}]}],[\"$\",\"div\",null,{\"className\":\"blog-teaser_timestamp__hb6gF\",\"children\":[\"$\",\"p\",null,{\"children\":\"December 12, 2024\"}]}]]}],[\"$\",\"div\",null,{\"className\":\"blog-teaser_content__FFQX2\",\"children\":[[\"$\",\"$Le\",null,{\"href\":\"blog/grok-1212\",\"className\":\"blog-teaser_heading__KWHU_\",\"children\":[[\"$\",\"h4\",null,{\"children\":\"Bringing Grok to Everyone\"}],[\"$\",\"$L10\",null,{\"fontSize\":\"small\"}]]}],[\"$\",\"p\",null,{\"className\":\"blog-teaser_text__jbhwi\",\"children\":\"Grok is now faster, sharper, and has improved multilingual support. It is available to everyone on the 𝕏 platform. \"}]]}]]}]}]]}],[\"$\",\"div\",null,{\"className\":\"heading_readMore__Win4C\",\"children\":[[\"$\",\"h1\",null,{\"id\":\"$undefined\",\"children\":\"Careers\"}],[\"$\",\"div\",null,{\"className\":\"heading_line__PRk5Q\"}],[\"$\",\"$Le\",null,{\"href\":\"/careers\",\"children\":\"View open roles\"}]]}],[\"$\",\"div\",null,{\"className\":\"row row-gap-5\",\"children\":[[\"$\",\"div\",null,{\"className\":\"col-sm-4\",\"children\":[\"$\",\"h2\",null,{\"className\":\"page_slogan__T_fkj\",\"children\":\"Work with us to create a better future\"}]}],[\"$\",\"div\",null,{\"className\":\"col-sm-8\",\"children\":[\"$\",\"$L11\",null,{\"landingPage\":true,\"numPostings\":3}]}]]}],[\"$\",\"div\",null,{\"className\":\"heading_readMore__Win4C\",\"children\":[[\"$\",\"h1\",null,{\"id\":\"$undefined\",\"children\":\"Developers\"}],[\"$\",\"div\",null,{\"className\":\"heading_line__PRk5Q\"}],\"$undefined\"]}],[\"$\",\"div\",null,{\"className\":\"row row-gap-5\",\"children\":[[\"$\",\"div\",null,{\"className\":\"col-sm-4\",\"children\":[\"$\",\"h2\",null,{\"className\":\"page_slogan__T_fkj\",\"children\":\"Start building with Grok\"}]}],[[\"$\",\"div\",null,{\"className\":\"col-sm\",\"children\":[\"$\",\"$Le\",null,{\"href\":\"https://console.x.ai/\",\"target\":\"_blank\",\"className\":\"product-teaser_teaser__fjsiL\",\"children\":[[\"$\",\"div\",null,{\"className\":\"product-teaser_header__xn5w8\",\"children\":[[\"$\",\"h1\",null,{\"children\":\"Cloud Console\"}],[\"$\",\"span\",null,{\"className\":\"xai-arrow\",\"children\":[\"$\",\"$L12\",null,{}]}]]}],[\"$\",\"p\",null,{\"children\":\"Prepare to integrate Grok by setting up our API.\"}]]}]}],[\"$\",\"div\",null,{\"className\":\"col-auto d-none d-sm-block\",\"children\":[\"$\",\"div\",null,{\"className\":\"product-teaser_line__eZNpd\"}]}],[\"$\",\"div\",null,{\"className\":\"col-sm\",\"children\":[\"$\",\"$Le\",null,{\"href\":\"https://docs.x.ai\",\"target\":\"_blank\",\"className\":\"product-teaser_teaser__fjsiL\",\"children\":[[\"$\",\"div\",null,{\"className\":\"product-teaser_header__xn5w8\",\"children\":[[\"$\",\"h1\",null,{\"children\":\"Developer Docs\"}],[\"$\",\"span\",null,{\"className\":\"xai-arrow\",\"children\":[\"$\",\"$L12\",null,{}]}]]}],[\"$\",\"p\",null,{\"children\":\"Learn more about Grok and its capabilities.\"}]]}]}]]]}],[\"$\",\"div\",null,{\"className\":\"page_bottomSpacer__vts_l\"}]]}]}]}],[\"$\",\"footer\",null,{\"children\":[\"$\",\"div\",null,{\"className\":\"xai-container\",\"children\":[\"$\",\"div\",null,{\"className\":\"site-footer_footer___c5T3\",\"children\":[[\"$\",\"div\",null,{\"className\":\"col-sm-auto\",\"children\":[\"$\",\"$Le\",null,{\"href\":\"/grok\",\"children\":\"Grok\"}]}],[\"$\",\"div\",null,{\"className\":\"col-sm-auto\",\"children\":[\"$\",\"$Le\",null,{\"href\":\"/api\",\"children\":\"API\"}]}],[\"$\",\"div\",null,{\"className\":\"col-sm-auto\",\"children\":[\"$\",\"$Le\",null,{\"href\":\"/legal\",\"children\":\"Legal\"}]}]]}]}]}]]\n"])</script><script nonce="NTYzODZhZjktYzdlMy00MDM1LThiZjUtNjBmYTM0NGUyOWUx">self.__next_f.push([1,"8:[\"$\",\"html\",null,{\"lang\":\"en\",\"children\":[\"$\",\"body\",null,{\"children\":[\"$\",\"$L13\",null,{\"parallelRouterKey\":\"children\",\"segmentPath\":[\"children\"],\"error\":\"$14\",\"errorStyles\":[[\"$\",\"link\",\"0\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/css/3441ed19eac00c8e.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\"}],[\"$\",\"link\",\"1\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/css/0ade9d796dd18193.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\"}]],\"errorScripts\":[],\"template\":[\"$\",\"$L15\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":[[\"$\",\"$Lc\",null,{}],[\"$\",\"$L16\",null,{}],[\"$\",\"div\",null,{\"className\":\"xai-container\",\"children\":[\"$\",\"section\",null,{\"className\":\"teaser_teaser__qN3hL\",\"children\":[[\"$\",\"h1\",null,{\"className\":\"display-3\",\"children\":\"404\"}],[\"$\",\"p\",null,{\"className\":\"fs-3\",\"children\":\"Looks like you've stumbled onto a deleted scene! There's nothing to see here.\"}],[\"$\",\"$Le\",null,{\"href\":\"/\",\"className\":\"fs-3\",\"children\":\"Go back to home page\"}]]}]}],[\"$\",\"div\",null,{\"className\":\"pb-4 pt-4 content-box_wrapper___f519 content-box_transparent__mGBKd\",\"children\":[\"$\",\"div\",null,{\"className\":\"xai-container\",\"children\":[\"$\",\"main\",null,{\"className\":\"[object Object]\",\"children\":\"$undefined\"}]}]}],[\"$\",\"footer\",null,{\"children\":[\"$\",\"div\",null,{\"className\":\"xai-container\",\"children\":[\"$\",\"div\",null,{\"className\":\"site-footer_footer___c5T3\",\"children\":[[\"$\",\"div\",null,{\"className\":\"col-sm-auto\",\"children\":[\"$\",\"$Le\",null,{\"href\":\"/grok\",\"children\":\"Grok\"}]}],[\"$\",\"div\",null,{\"className\":\"col-sm-auto\",\"children\":[\"$\",\"$Le\",null,{\"href\":\"/api\",\"children\":\"API\"}]}],[\"$\",\"div\",null,{\"className\":\"col-sm-auto\",\"children\":[\"$\",\"$Le\",null,{\"href\":\"/legal\",\"children\":\"Legal\"}]}]]}]}]}]],\"notFoundStyles\":[[\"$\",\"link\",\"0\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/css/3441ed19eac00c8e.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\"}],[\"$\",\"link\",\"1\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/css/0ade9d796dd18193.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\"}]]}]}]}]\n9:[[\"$\",\"meta\",\"0\","])</script><script nonce="NTYzODZhZjktYzdlMy00MDM1LThiZjUtNjBmYTM0NGUyOWUx">self.__next_f.push([1,"{\"name\":\"viewport\",\"content\":\"width=device-width, initial-scale=1\"}],[\"$\",\"meta\",\"1\",{\"charSet\":\"utf-8\"}],[\"$\",\"title\",\"2\",{\"children\":\"xAI\"}],[\"$\",\"meta\",\"3\",{\"name\":\"description\",\"content\":\"xAI is an AI company with the mission of advancing scientific discovery and gaining a deeper understanding of our universe.\"}],[\"$\",\"meta\",\"4\",{\"name\":\"twitter:card\",\"content\":\"summary_large_image\"}],[\"$\",\"meta\",\"5\",{\"name\":\"twitter:title\",\"content\":\"xAI\"}],[\"$\",\"meta\",\"6\",{\"name\":\"twitter:description\",\"content\":\"xAI is an AI company with the mission of advancing scientific discovery and gaining a deeper understanding of our universe.\"}],[\"$\",\"meta\",\"7\",{\"name\":\"twitter:image:type\",\"content\":\"image/png\"}],[\"$\",\"meta\",\"8\",{\"name\":\"twitter:image:width\",\"content\":\"1911\"}],[\"$\",\"meta\",\"9\",{\"name\":\"twitter:image:height\",\"content\":\"1000\"}],[\"$\",\"meta\",\"10\",{\"name\":\"twitter:image\",\"content\":\"https://x.ai/twitter-image.png?77e49583aef22766\"}],[\"$\",\"link\",\"11\",{\"rel\":\"icon\",\"href\":\"/favicon.ico\",\"type\":\"image/x-icon\",\"sizes\":\"32x32\"}],[\"$\",\"link\",\"12\",{\"rel\":\"icon\",\"href\":\"/icon.svg?2f55916d3a05ba17\",\"type\":\"image/svg+xml\",\"sizes\":\"any\"}],[\"$\",\"link\",\"13\",{\"rel\":\"apple-touch-icon\",\"href\":\"/apple-icon.png?d82460d2a9afe67b\",\"type\":\"image/png\",\"sizes\":\"180x180\"}],[\"$\",\"meta\",\"14\",{\"name\":\"next-size-adjust\"}]]\n6:null\n"])</script></body></html>
+<!DOCTYPE html>
+<html lang="en" class="page-index">
+<head>
+<meta name="google-site-verification" content="ej7DCzns06I5qrf4Xn5aafoQeDdFowTaWUwsWxCRIxc" />
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="IE=9,10,11,edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="350888674962511" property="fb:pages"/>
+<link rel="shortcut icon" href="/img/icons/favicons/favicon-32x32.png?v=0.1" sizes="32x32">
+<link rel="shortcut icon" href="/img/icons/favicons/favicon-16x16.png?v=0.1" sizes="16x16">
+<link rel="shortcut icon" href="/img/icons/favicons/android-chrome-192x192.png?v=0.1" sizes="192x192">
+<link rel="shortcut icon" href="/img/icons/favicons/android-chrome-512x512.png?v=0.1" sizes="512x512">
+<!-- iOS -->
+<link rel="apple-touch-icon" href="/img/icons/favicons/apple-touch-icon.png?v=0.1">
+<title lang="en">Homepage | European Investment Bank</title>
+<meta name="description" content="The European Investment Bank (EIB) is the lending arm of the European Union. We are the world’s largest multilateral lender and the biggest provider of climate finance."></meta>
+<meta name="copyright" content="European Investment Bank">
+<!-- generics -->
+<link rel="shortcut icon" href="/img/icons/favicons/favicon-32x32.png?v=0.1" sizes="32x32">
+<link rel="shortcut icon" href="/img/icons/favicons/favicon-16x16.png?v=0.1" sizes="16x16">
+<link rel="shortcut icon" href="/img/icons/favicons/android-chrome-192x192.png?v=0.1" sizes="192x192">
+<link rel="shortcut icon" href="/img/icons/favicons/android-chrome-512x512.png?v=0.1" sizes="512x512">
+<!-- iOS -->
+<link rel="apple-touch-icon" href="/img/icons/favicons/apple-touch-icon.png?v=0.1">
+<link rel="canonical" href="https://www.eib.org/en/index" />
+<link rel="alternate" href="https://www.eib.org/fr/index" hreflang="fr"/>
+<link rel="alternate" href="https://www.eib.org/de/index" hreflang="de"/>
+<meta property="twitter:image" content="https://www.eib.org/photos/rs/ff58d908-cb76-4dbf-901e-5058a9854634/largeprvw/image.jpg"/>
+<meta property="og:image" content="https://www.eib.org/photos/rs/ff58d908-cb76-4dbf-901e-5058a9854634/largeprvw/image.jpg"/>
+<style>
+menu.eib-mega-menu{display:none}img.lozad {width:100%;height:100%;object-fit:cover;object-position:center;will-change:filter;display:block;}
+</style>
+<link rel="stylesheet" href="//tech.eib.org/_tools/mix/css/eib-font.css">
+<link rel="stylesheet" href="//tech.eib.org/_tools/mix/font/fontawesome-pro/css/all.min.css"/>
+<link rel="stylesheet" href="//tech.eib.org/_tools/front/css/framework/bootstrap.min.css">
+<link rel="stylesheet" href="https://tech.eib.org/_tools/front/css/framework/swiper-bundle.min.css">
+<link rel="stylesheet" href="//tech.eib.org/_tools/front/css/framework/rl/eib-styles.css?v=2.15">
+<link rel="stylesheet" href="//tech.eib.org/_tools/mix/css/all-style-rl.css?v=3.49">
+<link href="//tech.eib.org/_tools/front/css/framework/rl/header.css?v=1.623" media="screen" rel="stylesheet" type="text/css"/>
+<link href="//tech.eib.org/_tools/front/css/framework/rl/primer/primer.css" rel="stylesheet" type="text/css"/>
+<link rel="stylesheet" href="//tech.eib.org/_tools/front/css/framework/rl/footer.css?v=1.6">
+<link href="//tech.eib.org/_tools/front/css/fm/all-style.css?v=3.563" media="screen" rel="stylesheet" type="text/css"/>
+<link rel="stylesheet" href="//tech.eib.org/_tools/front/css/framework/jquery.fancybox.min.css">
+<link rel="stylesheet" href="//tech.eib.org/_tools/mix/css/gallery/thumbnail-gallery.css?v=1.4">
+<link rel="stylesheet" href="//tech.eib.org/_tools/front/css/framework/flag-icon.min.css">
+<link rel="stylesheet" media="print" href="//tech.eib.org/_tools/front/css/generic/print.css?version=1"/>
+<link rel="stylesheet" type="text/css" href="//cdn.curator.io/5.0/curator.embed.css"/>
+<script src="//tech.eib.org/_tools/front/js/framework/_rareloop/animate-in.js" defer></script>
+<link rel="stylesheet" href="//tech.eib.org/_tools/front/css/framework/animations/scrollmation-gallery.css"/>
+<link rel="stylesheet" href="//tech.eib.org/_tools/front/css/framework/animations/scrollmation-text-on-image.css"/>
+<link rel="stylesheet" href="//tech.eib.org/_tools/front/css/framework/animations/scrollmation-two-col.css"/>
+<script charset="UTF-8" src="//tech.eib.org/_tools/front/js/include-google.js" type="text/javascript"></script>
+</head>
+<body class="eib-homepage">
+<header class="header__landing">
+<menu class="eib-mega-menu eib-mega-menu--v2 ">
+<a class="eib-mega-menu__search eib-mega-menu__icon-link">
+<svg width="20" height="20" viewbox="0 0 20 20" fill="inherit" xmlns="http://www.w3.org/2000/svg">
+<path d="M19.9399 18.1499L13.4474 11.8017C14.4549 10.5282 14.9999 8.97107 14.9999 7.3333C14.9999 5.37287 14.2174 3.53465 12.8024 2.14866C11.3874 0.762663 9.50246 0 7.49997 0C5.49748 0 3.61248 0.765108 2.19749 2.14866C0.779996 3.53221 0 5.37287 0 7.3333C0 9.29129 0.782496 11.1344 2.19749 12.5179C3.61248 13.9039 5.49498 14.6666 7.49997 14.6666C9.17496 14.6666 10.765 14.1337 12.0674 13.1511L18.5599 19.4968C18.579 19.5154 18.6016 19.5302 18.6264 19.5403C18.6513 19.5504 18.678 19.5556 18.7049 19.5556C18.7318 19.5556 18.7585 19.5504 18.7834 19.5403C18.8083 19.5302 18.8309 19.5154 18.8499 19.4968L19.9399 18.4335C19.959 18.4149 19.9741 18.3928 19.9844 18.3684C19.9947 18.3441 20 18.318 20 18.2917C20 18.2654 19.9947 18.2393 19.9844 18.215C19.9741 18.1906 19.959 18.1685 19.9399 18.1499ZM11.46 11.2053C10.4 12.2393 8.99496 12.8088 7.49997 12.8088C6.00497 12.8088 4.59998 12.2393 3.53998 11.2053C2.48249 10.1688 1.89999 8.79507 1.89999 7.3333C1.89999 5.87153 2.48249 4.49531 3.53998 3.46132C4.59998 2.42732 6.00497 1.85777 7.49997 1.85777C8.99496 1.85777 10.4025 2.42488 11.46 3.46132C12.5174 4.49776 13.0999 5.87153 13.0999 7.3333C13.0999 8.79507 12.5174 10.1713 11.46 11.2053Z" fill="inherit"></path>
+</svg> <span>Search</span> </a>
+<span class="eib-mega-menu__languages eib-select"> <span class="eib-select__label">En</span>
+<ul class="eib-select__dropdown">
+<li class="eib-select__option"><a class="eib-select__link" href="/fr/?lang=fr">FR</a></li>
+<li class="eib-select__option"><a class="eib-select__link" href="/de/?lang=de">DE</a></li>
+</ul> </span>
+<a class="eib-mega-menu__toggle eib-mega-menu__icon-link">
+<svg width="24" height="16" viewbox="0 0 24 16" fill="#fff" xmlns="http://www.w3.org/2000/svg">
+<rect width="24" height="2" fill="inherit"></rect>
+<rect y="6.64648" width="24" height="2" fill="inherit"></rect>
+<rect y="13.2939" width="24" height="2" fill="inherit"></rect>
+</svg> <span>menu</span> </a>
+<a href="/en/index.htm" class="eib-mega-menu__logo-horizontal default-eib" title="European Investment Bank">
+<svg viewbox="0 0 300 80" xmlns="http://www.w3.org/2000/svg">
+<g id="g-1" transform="matrix(0.461957, 0, 0, 0.461957, -60.684357, -60.458923)">
+<g>
+<rect x="298" y="192.3" class="flagbackground-color" width="109.2" height="80.2"></rect>
+<g>
+<polygon class="star-color" points="353.5,204.3 357.7,204.3 354.4,206.9 355.7,211.1 352.3,208.5 349,211.1 350.3,206.9 346.9,204.3 351,204.3 352.3,200.3 "></polygon>
+<polygon class="star-color" points="353.7,258 357.9,258 354.5,260.5 355.8,264.5 352.5,262 349.1,264.5 350.4,260.5 347,258 351.2,258 352.5,254 "></polygon>
+<polygon class="star-color" points="367,254.4 371.2,254.4 367.8,256.9 369.1,260.9 365.7,258.5 362.4,260.9 363.7,256.9 360.3,254.4 364.5,254.4 365.7,250.5 "></polygon>
+<polygon class="star-color" points="367,207.9 371.2,207.9 367.8,210.4 369.1,214.4 365.7,212 362.4,214.4 363.7,210.4 360.3,207.9 364.5,207.9 365.7,204 "></polygon>
+<polygon class="star-color" points="376.8,217.7 381,217.7 377.6,220.3 378.9,224.3 375.6,221.8 372.2,224.3 373.5,220.3 370.1,217.7 374.3,217.7 375.6,213.8 "></polygon>
+<polygon class="star-color" points="376.8,244.7 381,244.7 377.6,247.2 378.9,251.2 375.6,248.8 372.2,251.2 373.5,247.2 370.1,244.7 374.3,244.7 375.6,240.8 "></polygon>
+<polygon class="star-color" points="380.5,231 384.7,231 381.3,233.5 382.6,237.5 379.3,235.1 375.9,237.5 377.2,233.5 373.8,231 378,231 379.3,227.1 "></polygon>
+<polygon class="star-color" points="340,207.9 344.2,207.9 340.8,210.5 342.1,214.5 338.8,212 335.4,214.5 336.7,210.5 333.3,207.9 337.5,207.9 338.8,204 "></polygon>
+<polygon class="star-color" points="330.4,217.8 334.6,217.8 331.3,220.3 332.6,224.3 329.2,221.8 325.9,224.3 327.2,220.3 323.8,217.8 327.9,217.8 329.2,213.9 "></polygon>
+<polygon class="star-color" points="326.9,231 331.1,231 327.7,233.6 329,237.6 325.7,235.1 322.3,237.6 323.6,233.6 320.2,231 324.4,231 325.7,227.1 "></polygon>
+<polygon class="star-color" points="330.4,244.7 334.6,244.7 331.3,247.3 332.6,251.3 329.2,248.8 325.9,251.3 327.2,247.3 323.8,244.7 327.9,244.7 329.2,240.8 "></polygon>
+<polygon class="star-color" points="340.2,254.4 344.3,254.4 341,257 342.3,261 338.9,258.5 335.6,261 336.9,257 333.5,254.4 337.7,254.4 338.9,250.5 "></polygon>
+</g>
+<g>
+<rect x="295.1" y="189.4" class="viewbox-color" width="115" height="86"></rect>
+<path class="lines-color" d="M407.2,160.5v14c-26.4-8.3-51.7-12.5-75.7-12.5c-39,0-74.4,11.1-105.4,32.9c-26,18.3-49,44.4-68.5,77.7h-7.2 c41.3-79.8,106.4-123.4,185.3-123.4C358.9,149.1,382.8,152.9,407.2,160.5z"></path>
+</g>
+<path class="lines-color" d="M295.1,199.9v3.9h-65.2c0.6-0.4,1.1-0.8,1.7-1.2c0.8-0.5,1.5-1.1,2.3-1.6c0,0,0,0,0,0c0.6-0.4,1.2-0.7,1.8-1 H295.1z"></path>
+<polygon class="lines-color" points="215.8,215.2 295.1,215.2 295.1,219.1 211.5,219.1 "></polygon>
+<polygon class="lines-color" points="200,230.6 295.1,230.6 295.1,234.5 196.5,234.5 "></polygon>
+<polygon class="lines-color" points="187.2,245.7 295.1,245.7 295.1,249.6 184.2,249.6 "></polygon>
+<path class="lines-color" d="M295.1,260.9v3.9H173.6c0.8-1.3,1.7-2.6,2.6-3.9H295.1z"></path>
+</g>
+</g>
+<g style="" transform="matrix(0.461957, 0, 0, 0.461957, -0.350258, -13.57983)">
+<title>en</title>
+<g transform="matrix(1, 0, 0, 1, -130.605438, -101.47934)">
+<path class="logotext-color" d="M450.5,226.2h-9.3v7.3h10.4v3.7h-15v-24.8H451v3.7h-9.9v6.4h9.3V226.2z"></path>
+<path class="logotext-color" d="M471.1,231.9c0,2.1,0.1,3.9,0.1,5.4h-3.9l-0.2-2.7h-0.1c-0.8,1.2-2.5,3.1-5.8,3.1s-6.2-1.9-6.2-7.8v-10.5h4.5 v9.7c0,3,1,4.9,3.3,4.9c1.8,0,3-1.2,3.5-2.4c0.2-0.4,0.3-0.9,0.3-1.4v-10.8h4.5V231.9z"></path>
+<path class="logotext-color" d="M476,225.1c0-2.4,0-4.2-0.1-5.8h3.9l0.2,3.4h0.1c0.9-2.5,3-3.8,4.9-3.8c0.4,0,0.7,0,1.1,0.1v4.2 c-0.4-0.1-0.8-0.1-1.4-0.1c-2.1,0-3.6,1.4-4,3.4c-0.1,0.4-0.1,0.9-0.1,1.4v9.3H476V225.1z"></path>
+<path class="logotext-color" d="M496.5,237.6c-5,0-9-3.5-9-9.2c0-5.9,3.9-9.5,9.3-9.5c5.3,0,8.9,3.7,8.9,9.2 C505.7,234.7,501.1,237.6,496.5,237.6L496.5,237.6z M496.7,234.3c2.6,0,4.4-2.5,4.4-6.1c0-2.8-1.2-6-4.3-6c-3.2,0-4.5,3.1-4.5,6.1 C492.2,231.7,494,234.3,496.7,234.3L496.7,234.3z"></path>
+<path class="logotext-color" d="M509.4,225.3c0-2.4-0.1-4.3-0.1-6h4l0.2,2.8h0.1c1.3-2,3.4-3.2,6.1-3.2c4.1,0,7.5,3.5,7.5,9.1 c0,6.5-4.1,9.6-8.2,9.6c-2.2,0-4.1-1-5-2.4h-0.1v9.3h-4.5V225.3z M513.9,229.7c0,0.4,0,0.8,0.1,1.2c0.5,1.8,2.1,3.2,4,3.2 c2.9,0,4.6-2.4,4.6-5.9c0-3.2-1.5-5.7-4.4-5.7c-1.9,0-3.6,1.4-4.1,3.3c-0.1,0.4-0.1,0.8-0.1,1.1V229.7z"></path>
+<path class="logotext-color" d="M534.1,229.5c0.1,3.2,2.6,4.6,5.5,4.6c2.1,0,3.6-0.3,5-0.8l0.7,3.1c-1.5,0.7-3.7,1.1-6.2,1.1 c-5.8,0-9.2-3.6-9.2-9c0-5,3-9.6,8.7-9.6c5.8,0,7.7,4.8,7.7,8.7c0,0.8-0.1,1.5-0.1,1.9H534.1z M542,226.4c0-1.7-0.7-4.4-3.7-4.4 c-2.8,0-4,2.5-4.2,4.4H542z"></path>
+<path class="logotext-color" d="M563.8,232.9c0,1.6,0.1,3.2,0.3,4.3H560l-0.3-2h-0.1c-1.1,1.4-2.9,2.4-5.3,2.4c-3.6,0-5.6-2.6-5.6-5.3 c0-4.5,4-6.8,10.6-6.8v-0.3c0-1.2-0.5-3.1-3.6-3.1c-1.8,0-3.6,0.6-4.8,1.3l-0.9-2.9c1.3-0.8,3.6-1.6,6.5-1.6 c5.7,0,7.4,3.6,7.4,7.6V232.9z M559.4,228.5c-3.2,0-6.2,0.6-6.2,3.3c0,1.8,1.1,2.6,2.6,2.6c1.8,0,3.1-1.2,3.6-2.5 c0.1-0.3,0.1-0.7,0.1-1V228.5z"></path>
+<path class="logotext-color" d="M568.5,224.6c0-2.1-0.1-3.8-0.1-5.3h3.9l0.2,2.7h0.1c0.8-1.4,2.8-3.1,5.7-3.1c3.1,0,6.4,2,6.4,7.7v10.6h-4.5 v-10.1c0-2.6-1-4.5-3.4-4.5c-1.8,0-3,1.3-3.5,2.6c-0.1,0.4-0.2,0.9-0.2,1.4v10.5h-4.5V224.6z"></path>
+<path class="logotext-color" d="M441.2,247.9v24.8h-4.5v-24.8H441.2z"></path>
+<path class="logotext-color" d="M446.4,260.1c0-2.1-0.1-3.8-0.1-5.3h3.9l0.2,2.7h0.1c0.8-1.4,2.8-3.1,5.7-3.1c3.1,0,6.4,2,6.4,7.7v10.6h-4.5 v-10.1c0-2.6-1-4.5-3.4-4.5c-1.8,0-3,1.3-3.5,2.6c-0.1,0.4-0.2,0.9-0.2,1.4v10.5h-4.5V260.1z"></path>
+<path class="logotext-color" d="M469.7,254.8l2.9,9.1c0.5,1.6,0.9,3,1.2,4.5h0.1c0.3-1.5,0.7-2.9,1.2-4.5l2.9-9.1h4.7l-6.8,17.9h-4.4 l-6.7-17.9H469.7z"></path>
+<path class="logotext-color" d="M488.2,265c0.1,3.2,2.6,4.6,5.5,4.6c2.1,0,3.6-0.3,5-0.8l0.7,3.1c-1.5,0.7-3.7,1.1-6.2,1.1 c-5.8,0-9.2-3.6-9.2-9c0-5,3-9.6,8.7-9.6c5.8,0,7.7,4.8,7.7,8.7c0,0.8-0.1,1.5-0.1,1.9H488.2z M496,261.8c0-1.7-0.7-4.4-3.7-4.4 c-2.8,0-4,2.5-4.2,4.4H496z"></path>
+<path class="logotext-color" d="M503.8,268.5c1,0.6,2.9,1.3,4.6,1.3c2,0,2.9-0.8,2.9-2c0-1.2-0.7-1.8-2.9-2.6c-3.5-1.2-4.9-3.1-4.9-5.2 c0-3.2,2.6-5.6,6.8-5.6c2,0,3.7,0.5,4.8,1.1l-0.9,3.2c-0.7-0.4-2.2-1-3.8-1c-1.6,0-2.5,0.8-2.5,1.9c0,1.1,0.8,1.7,3.1,2.5 c3.3,1.1,4.7,2.8,4.8,5.4c0,3.3-2.5,5.6-7.3,5.6c-2.2,0-4.1-0.5-5.4-1.2L503.8,268.5z"></path>
+<path class="logotext-color" d="M524.5,250.2v4.6h4.3v3.4h-4.3v7.9c0,2.2,0.6,3.3,2.3,3.3c0.8,0,1.2,0,1.8-0.2l0.1,3.4 c-0.7,0.3-1.9,0.5-3.3,0.5c-1.7,0-3-0.6-3.9-1.5c-1-1-1.4-2.7-1.4-5v-8.4h-2.5v-3.4h2.5v-3.3L524.5,250.2z"></path>
+<path class="logotext-color" d="M532.2,260.1c0-2.1-0.1-3.8-0.1-5.3h3.9l0.2,2.6h0.1c0.8-1.4,2.5-3,5.5-3c2.4,0,4.2,1.3,5,3.3h0.1 c0.6-1,1.4-1.7,2.2-2.2c1-0.7,2.2-1.1,3.7-1.1c2.9,0,6,2,6,7.8v10.5h-4.4v-9.9c0-3-1-4.7-3.2-4.7c-1.5,0-2.7,1.1-3.2,2.4 c-0.1,0.4-0.2,1-0.2,1.5v10.7h-4.4v-10.4c0-2.5-1-4.3-3.1-4.3c-1.7,0-2.8,1.3-3.3,2.5c-0.1,0.5-0.2,1-0.2,1.5v10.6h-4.4V260.1z"></path>
+<path class="logotext-color" d="M566.5,265c0.1,3.2,2.6,4.6,5.5,4.6c2.1,0,3.6-0.3,5-0.8l0.7,3.1c-1.5,0.7-3.7,1.1-6.2,1.1 c-5.8,0-9.2-3.6-9.2-9c0-5,3-9.6,8.7-9.6c5.8,0,7.7,4.8,7.7,8.7c0,0.8-0.1,1.5-0.1,1.9H566.5z M574.4,261.8c0-1.7-0.7-4.4-3.7-4.4 c-2.8,0-4,2.5-4.2,4.4H574.4z"></path>
+<path class="logotext-color" d="M582.3,260.1c0-2.1-0.1-3.8-0.1-5.3h3.9l0.2,2.7h0.1c0.8-1.4,2.8-3.1,5.7-3.1c3.1,0,6.4,2,6.4,7.7v10.6H594 v-10.1c0-2.6-1-4.5-3.4-4.5c-1.8,0-3,1.3-3.5,2.6c-0.1,0.4-0.2,0.9-0.2,1.4v10.5h-4.5V260.1z"></path>
+<path class="logotext-color" d="M608.3,250.2v4.6h4.3v3.4h-4.3v7.9c0,2.2,0.6,3.3,2.3,3.3c0.8,0,1.2,0,1.8-0.2l0.1,3.4 c-0.7,0.3-1.9,0.5-3.3,0.5c-1.7,0-3-0.6-3.9-1.5c-1-1-1.4-2.7-1.4-5v-8.4h-2.5v-3.4h2.5v-3.3L608.3,250.2z"></path>
+<path class="logotext-color" d="M623.8,248.2c1.4-0.3,4-0.6,6.6-0.6c3.3,0,5.4,0.4,7.1,1.6c1.5,0.9,2.6,2.5,2.6,4.7c0,2.3-1.4,4.3-4.1,5.3 v0.1c2.6,0.7,5,2.7,5,6.1c0,2.2-1,3.9-2.4,5.1c-1.8,1.5-4.7,2.3-9.2,2.3c-2.5,0-4.4-0.2-5.5-0.3V248.2z M628.3,258h2.3 c3.2,0,4.9-1.5,4.9-3.6c0-2.4-1.8-3.4-4.6-3.4c-1.3,0-2.1,0.1-2.6,0.2V258z M628.3,269.4c0.6,0.1,1.4,0.1,2.4,0.1 c2.9,0,5.5-1.1,5.5-4.2c0-2.9-2.5-4-5.7-4h-2.2V269.4z"></path>
+<path class="logotext-color" d="M658.7,268.3c0,1.6,0.1,3.2,0.3,4.3h-4.1l-0.3-2h-0.1c-1.1,1.4-2.9,2.4-5.3,2.4c-3.6,0-5.6-2.6-5.6-5.3 c0-4.5,4-6.8,10.6-6.8v-0.3c0-1.2-0.5-3.1-3.6-3.1c-1.8,0-3.6,0.6-4.8,1.3l-0.9-2.9c1.3-0.8,3.6-1.6,6.5-1.6 c5.7,0,7.4,3.6,7.4,7.6V268.3z M654.3,263.9c-3.2,0-6.2,0.6-6.2,3.3c0,1.8,1.1,2.6,2.6,2.6c1.8,0,3.1-1.2,3.6-2.5 c0.1-0.3,0.1-0.7,0.1-1V263.9z"></path>
+<path class="logotext-color" d="M663.5,260.1c0-2.1-0.1-3.8-0.1-5.3h3.9l0.2,2.7h0.1c0.8-1.4,2.8-3.1,5.7-3.1c3.1,0,6.4,2,6.4,7.7v10.6h-4.5 v-10.1c0-2.6-1-4.5-3.4-4.5c-1.8,0-3,1.3-3.5,2.6c-0.1,0.4-0.2,0.9-0.2,1.4v10.5h-4.5V260.1z"></path>
+<path class="logotext-color" d="M689,262.6L689,262.6c0.5-0.7,1-1.5,1.5-2.1l4.4-5.8h5.4l-6.7,7.3l7.6,10.6h-5.5l-5.1-7.9l-1.5,1.8v6.1h-4.5 v-26.1h4.5V262.6z"></path>
+</g>
+</g>
+</svg></a>
+<a href="https://clientconnect.eib.org" target="_blank" class="eib-mega-menu__connect eib-mega-menu__icon-link">
+<svg width="17" height="18" viewbox="0 0 17 18" fill="inherit" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11.9937 5.82227V5.71289C11.9937 3.59009 10.3557 2 8.49365 2C6.63159 2 4.99365 3.59009 4.99365 5.71289V5.82227H11.9937ZM13.9937 5.71289C13.9937 2.55762 11.5312 0 8.49365 0C5.45605 0 2.99365 2.55762 2.99365 5.71289V5.8667H2C0.895386 5.8667 0 6.76221 0 7.8667V15.7385C0 16.843 0.895386 17.7385 2 17.7385H14.9983C16.1029 17.7385 16.9983 16.843 16.9983 15.7385V7.8667C16.9983 6.76221 16.1029 5.8667 14.9983 5.8667H13.9937V5.71289ZM14.9983 7.8667H2V15.7385H14.9983V7.8667ZM8.49805 13.2002C9.32642 13.2002 9.99805 12.5435 9.99805 11.7334C9.99805 10.9236 9.32642 10.2668 8.49805 10.2668C7.66968 10.2668 6.99805 10.9236 6.99805 11.7334C6.99805 12.5435 7.66968 13.2002 8.49805 13.2002Z" fill="inherit"></path>
+</svg> <span>ClientConnect</span> </a>
+<div class="eib-mega-menu__menu">
+<div class="eib-mega-menu__menu-top">
+<a class="eib-mega-menu__toggle eib-mega-menu__toggle--close eib-mega-menu__icon-link">
+<svg width="19" height="20" viewbox="0 0 19 20" fill="inherit" xmlns="http://www.w3.org/2000/svg">
+<line x1="0.707107" y1="1.29289" x2="17.7071" y2="18.2929" stroke="inherit" stroke-width="2" stroke-linejoin="round"></line>
+<line x1="17.7071" y1="1.70711" x2="0.707106" y2="18.7071" stroke="inherit" stroke-width="2" stroke-linejoin="round"></line>
+</svg> <span>Close</span> </a>
+<a href="https://clientconnect.eib.org" target="_blank" class="eib-mega-menu__connect eib-mega-menu__connect--mobile eib-mega-menu__icon-link">
+<svg width="17" height="18" viewbox="0 0 17 18" fill="inherit" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11.9937 5.82227V5.71289C11.9937 3.59009 10.3557 2 8.49365 2C6.63159 2 4.99365 3.59009 4.99365 5.71289V5.82227H11.9937ZM13.9937 5.71289C13.9937 2.55762 11.5312 0 8.49365 0C5.45605 0 2.99365 2.55762 2.99365 5.71289V5.8667H2C0.895386 5.8667 0 6.76221 0 7.8667V15.7385C0 16.843 0.895386 17.7385 2 17.7385H14.9983C16.1029 17.7385 16.9983 16.843 16.9983 15.7385V7.8667C16.9983 6.76221 16.1029 5.8667 14.9983 5.8667H13.9937V5.71289ZM14.9983 7.8667H2V15.7385H14.9983V7.8667ZM8.49805 13.2002C9.32642 13.2002 9.99805 12.5435 9.99805 11.7334C9.99805 10.9236 9.32642 10.2668 8.49805 10.2668C7.66968 10.2668 6.99805 10.9236 6.99805 11.7334C6.99805 12.5435 7.66968 13.2002 8.49805 13.2002Z" fill="inherit"></path>
+</svg> <span>ClientConnect</span> </a>
+</div>
+<div class="eib-mega-menu__first">
+<div class="eib-mega-menu__container">
+<form class="eib-mega-menu__search-form" action="">
+<span class="eib-typography__secondary-label eib-mega-menu__search-label">Search</span>
+<div class="eib-mega-menu__search-bar">
+<input class="eib-mega-menu__search-input" type="text" placeholder="Search" data-keywords="[&quot;First&quot;,&quot;Second Sentence&quot;,&quot;Third Sentence&quot;]" />
+<a class="eib-mega-menu__search-button" href="https://www.eib.org/en/search.htm">Search</a>
+</div>
+</form>
+<ul class="eib-mega-menu__list">
+<div class="">
+<li class="eib-mega-menu__item eib-mega-menu__item--has-children eib-mega-menu__item--first"> Who we are
+<svg width="11" height="17" viewbox="0 0 11 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 14.8775L6.43425 8.42915L0 1.98085L1.98085 0L10.41 8.42915L1.98085 16.8583L0 14.8775Z"></path>
+</svg> </li>
+<div class="eib-mega-menu__second">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--second"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/about/index.htm">Overview</a> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--has-children eib-mega-menu__item--second"> EIB at a glance
+<svg width="11" height="17" viewbox="0 0 11 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 14.8775L6.43425 8.42915L0 1.98085L1.98085 0L10.41 8.42915L1.98085 16.8583L0 14.8775Z"></path>
+</svg> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/about/at-a-glance/index.htm">Overview</a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/about/global-cooperation/index.htm"> Tackling global challenges together </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/about/partners/index.htm"> Partners </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/about/eu-family/index.htm"> Part of the EU family </a> </li>
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--second"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/about/at-a-glance/eib-core-strategic-priorities"> Our priorities </a> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--has-children eib-mega-menu__item--second"> Our results
+<svg width="11" height="17" viewbox="0 0 11 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 14.8775L6.43425 8.42915L0 1.98085L1.98085 0L10.41 8.42915L1.98085 16.8583L0 14.8775Z"></path>
+</svg> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/about/key-figures/index">Overview</a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/about/key-figures/eib-impacts/index.htm"> EIB Group impact: Boosting GDP and jobs </a> </li>
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--has-children eib-mega-menu__item--second"> Governance and structure
+<svg width="11" height="17" viewbox="0 0 11 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 14.8775L6.43425 8.42915L0 1.98085L1.98085 0L10.41 8.42915L1.98085 16.8583L0 14.8775Z"></path>
+</svg> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/about/governance-and-structure/index.htm">Overview</a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/about/governance-and-structure/shareholders/index.htm"> Shareholders </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/about/governance-and-structure/statutory-bodies/index"> Statutory bodies </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/about/governance-and-structure/control_and_evaluation/index.htm"> Control and evaluation </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/about/governance-and-structure/organisation/index.htm"> Organisation structure </a> </li>
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--has-children eib-mega-menu__item--second"> Corporate responsibility
+<svg width="11" height="17" viewbox="0 0 11 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 14.8775L6.43425 8.42915L0 1.98085L1.98085 0L10.41 8.42915L1.98085 16.8583L0 14.8775Z"></path>
+</svg> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/about/cr/index.htm">Overview</a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/about/cr/responsible-finance/index.htm"> Providing finance </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/about/cr/responsible-borrower/index.htm"> Borrowing </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/about/cr/human-rights/index.htm"> Human rights and the EIB </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/about/cr/reporting_on_corporate_responsibility/index.htm"> Reporting on sustainability </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/about/cr/internal-commitment/index.htm"> Our internal commitment </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/about/cr/environmental-management/index.htm"> Managing our environment </a> </li>
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--has-children eib-mega-menu__item--second"> Transparency, accountability and access to information
+<svg width="11" height="17" viewbox="0 0 11 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 14.8775L6.43425 8.42915L0 1.98085L1.98085 0L10.41 8.42915L1.98085 16.8583L0 14.8775Z"></path>
+</svg> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/about/partners/cso/access-information-transparency/index.htm">Overview</a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/about/partners/cso/access-information/index.htm"> Transparency and access to information </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/about/accountability/complaints/index.htm"> EIB Group Complaints Mechanism overview </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/about/accountability/project-procurement-complaints/index.htm"> Project procurement complaints </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/about/accountability/anti-fraud/index.htm"> Investigating fraud and misconduct </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/about/accountability/evaluation/index.htm"> Evaluation </a> </li>
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--second"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/about/partners/cso/consultations/index.htm"> Public consultations </a> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--second"> <a class="eib-mega-menu__link" href="https://www.eib.org/about/partners/eib-institute/index"> EIB Institute </a> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+</ul>
+</div>
+</div>
+</div>
+</ul>
+</div>
+</div>
+</div>
+<div class="">
+<li class="eib-mega-menu__item eib-mega-menu__item--has-children eib-mega-menu__item--first"> What we offer
+<svg width="11" height="17" viewbox="0 0 11 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 14.8775L6.43425 8.42915L0 1.98085L1.98085 0L10.41 8.42915L1.98085 16.8583L0 14.8775Z"></path>
+</svg> </li>
+<div class="eib-mega-menu__second">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--second"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/products/index.htm">Overview</a> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--has-children eib-mega-menu__item--second"> Loans
+<svg width="11" height="17" viewbox="0 0 11 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 14.8775L6.43425 8.42915L0 1.98085L1.98085 0L10.41 8.42915L1.98085 16.8583L0 14.8775Z"></path>
+</svg> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/products/loans/index.htm">Overview</a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/products/loans/public-sector/index.htm"> Loans for the public sector </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/products/loans/framework-public-sector/index.htm"> Framework loans for the public sector </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/products/loans/private-sector/index.htm"> Loans for the private sector </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/products/loans/sme-mid-caps/index.htm"> Intermediated loans for SMEs, mid-caps and other priorities </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/products/loans/microfinance/index.htm"> Microfinance </a> </li>
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--has-children eib-mega-menu__item--second"> Equity
+<svg width="11" height="17" viewbox="0 0 11 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 14.8775L6.43425 8.42915L0 1.98085L1.98085 0L10.41 8.42915L1.98085 16.8583L0 14.8775Z"></path>
+</svg> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/products/equity/index.htm">Overview</a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/products/equity/venture-debt.htm"> Venture debt </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/products/equity/infra-environment-funds/index.htm"> Investments in infrastructure and environmental funds </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/products/equity/sme-mid-caps-funds/index.htm"> Investments in SME and mid-cap funds </a> </li>
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--has-children eib-mega-menu__item--second"> Guarantees
+<svg width="11" height="17" viewbox="0 0 11 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 14.8775L6.43425 8.42915L0 1.98085L1.98085 0L10.41 8.42915L1.98085 16.8583L0 14.8775Z"></path>
+</svg> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/products/guarantees/index.htm">Overview</a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/products/guarantees/credit-enhancement/index.htm"> Credit enhancement for project finance </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/products/guarantees/sme-mid-cap-guarantees/index.htm"> Guarantees in support of SMEs, mid-caps and other objectives </a> </li>
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--second"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/products/advisory-services/index.htm"> Advisory services </a> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--has-children eib-mega-menu__item--second"> Mandates and partnerships
+<svg width="11" height="17" viewbox="0 0 11 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 14.8775L6.43425 8.42915L0 1.98085L1.98085 0L10.41 8.42915L1.98085 16.8583L0 14.8775Z"></path>
+</svg> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/products/mandates-partnerships/index.htm">Overview</a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/products/mandates-partnerships/investeu/index.htm"> InvestEU </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/products/mandates-partnerships/eu-blending-facilities/index.htm"> EU Blending facilities </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/products/mandates-partnerships/donor-partnerships/index.htm"> Donor partnerships </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/products/mandates-partnerships/shared-management-funds/index.htm"> Shared management funds and financial instruments </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/products/mandates-partnerships/efsd/index.htm"> EFSD Guarantee </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/products/mandates-partnerships/index.htm#mandates"> All mandates and partnerships </a> </li>
+</ul>
+</div>
+</div>
+</div>
+</ul>
+</div>
+</div>
+</div>
+<div class="">
+<li class="eib-mega-menu__item eib-mega-menu__item--has-children eib-mega-menu__item--first"> Our work
+<svg width="11" height="17" viewbox="0 0 11 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 14.8775L6.43425 8.42915L0 1.98085L1.98085 0L10.41 8.42915L1.98085 16.8583L0 14.8775Z"></path>
+</svg> </li>
+<div class="eib-mega-menu__second">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--second"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/projects/index.htm">Overview</a> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--has-children eib-mega-menu__item--second"> Our projects
+<svg width="11" height="17" viewbox="0 0 11 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 14.8775L6.43425 8.42915L0 1.98085L1.98085 0L10.41 8.42915L1.98085 16.8583L0 14.8775Z"></path>
+</svg> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/projects/all/index.htm"> All projects </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/projects/pipelines/index.htm"> Projects to be financed </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/projects/loans/index.htm"> Financed projects </a> </li>
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--has-children eib-mega-menu__item--second"> Our priorities
+<svg width="11" height="17" viewbox="0 0 11 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 14.8775L6.43425 8.42915L0 1.98085L1.98085 0L10.41 8.42915L1.98085 16.8583L0 14.8775Z"></path>
+</svg> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/about/at-a-glance/eib-core-strategic-priorities">Overview</a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/projects/topics/climate-action/index"> Climate and environment </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/projects/topics/innovation-digital-and-human-capital/index"> Digitalisation and technological innovation </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/projects/topics/innovation-digital-and-human-capital/sesi/index"> Security and defence </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/projects/topics/regional-development/index"> A modern cohesion policy </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/projects/topics/energy-natural-resources/agriculture/index"> Agriculture and bioeconomy </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/projects/topics/sustainable-cities-regions/urban-development/affordable-and-sustainable-housing"> Social infrastructure </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/projects/topics/global/index"> High-impact global investment </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/projects/topics/capital-markets-union/index"> Capital Markets Union </a> </li>
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--has-children eib-mega-menu__item--second"> Our regions of activity
+<svg width="11" height="17" viewbox="0 0 11 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 14.8775L6.43425 8.42915L0 1.98085L1.98085 0L10.41 8.42915L1.98085 16.8583L0 14.8775Z"></path>
+</svg> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/projects/regions/index.htm">Overview</a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/projects/regions/european-union/index.htm"> European Union </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/projects/regions/enlargement/index.htm"> Enlargement countries </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/projects/region/western-balkans"> Western Balkans </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/projects/regions/eastern-neighbours/index.htm"> Eastern Neighbourhood </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/projects/regions/southern-neighbours/index.htm"> Southern Neighbourhood </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/projects/region/sub-saharan-africa"> Sub-Saharan Africa </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/projects/region/latin-america-caribbean"> Latin America and the Caribbean </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/projects/region/asia-pacific"> Asia and the Pacific </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/projects/regions/efta/index.htm"> EFTA countries </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/projects/regions/united-kingdom/index.htm"> UK </a> </li>
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--second"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/projects/map.htm"> Global investment map </a> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--second"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/projects/cycle/index.htm"> Project cycle </a> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--second"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/about/accountability/evaluation/index.htm"> Evaluation </a> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+</ul>
+</div>
+</div>
+</div>
+</ul>
+</div>
+</div>
+</div>
+<div class="">
+<li class="eib-mega-menu__item eib-mega-menu__item--has-children eib-mega-menu__item--first"> Media centre
+<svg width="11" height="17" viewbox="0 0 11 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 14.8775L6.43425 8.42915L0 1.98085L1.98085 0L10.41 8.42915L1.98085 16.8583L0 14.8775Z"></path>
+</svg> </li>
+<div class="eib-mega-menu__second">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--second"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/infocentre/index.htm">Overview</a> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--has-children eib-mega-menu__item--second"> Newsroom
+<svg width="11" height="17" viewbox="0 0 11 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 14.8775L6.43425 8.42915L0 1.98085L1.98085 0L10.41 8.42915L1.98085 16.8583L0 14.8775Z"></path>
+</svg> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/press/index.htm">Overview</a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/press/all/index.htm"> All releases </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/infocentre/press/contacts/index.htm"> Press contacts </a> </li>
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--has-children eib-mega-menu__item--second"> Stories and essays
+<svg width="11" height="17" viewbox="0 0 11 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 14.8775L6.43425 8.42915L0 1.98085L1.98085 0L10.41 8.42915L1.98085 16.8583L0 14.8775Z"></path>
+</svg> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/blog/index.htm">Overview</a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/stories/index.htm"> Stories </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/essays/index.htm"> Essays </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/podcasts/index.htm"> Podcasts </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/cartoons/index.htm"> All Cartoons </a> </li>
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--second"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/videos/index.htm"> Video library </a> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--second"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/events/index.htm"> Events </a> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--second"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/newsletters/index.htm"> Newsletter </a> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--second"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/registers/index.htm"> Public register </a> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--has-children eib-mega-menu__item--second"> EIB surveys
+<svg width="11" height="17" viewbox="0 0 11 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 14.8775L6.43425 8.42915L0 1.98085L1.98085 0L10.41 8.42915L1.98085 16.8583L0 14.8775Z"></path>
+</svg> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/surveys/index.htm">Overview</a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/surveys/climate-survey/index.htm"> EIB climate survey </a> </li>
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--second"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/media-centre/photos/index"> Picture library </a> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--second"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/infographics/index.htm"> Infographics </a> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--second"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/about/at-a-glance/logo"> Our logo </a> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+</ul>
+</div>
+</div>
+</div>
+</ul>
+</div>
+</div>
+</div>
+<div class="">
+<li class="eib-mega-menu__item eib-mega-menu__item--has-children eib-mega-menu__item--first"> Publications and research
+<svg width="11" height="17" viewbox="0 0 11 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 14.8775L6.43425 8.42915L0 1.98085L1.98085 0L10.41 8.42915L1.98085 16.8583L0 14.8775Z"></path>
+</svg> </li>
+<div class="eib-mega-menu__second">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--second"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/publications-research/index.htm">Overview</a> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--second"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/publications/index.htm"> Publications </a> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--has-children eib-mega-menu__item--second"> Our research
+<svg width="11" height="17" viewbox="0 0 11 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 14.8775L6.43425 8.42915L0 1.98085L1.98085 0L10.41 8.42915L1.98085 16.8583L0 14.8775Z"></path>
+</svg> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/publications-research/economics/index.htm">Overview</a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/publications-research/economics/research/index.htm"> Economic analysis </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/publications-research/economics/surveys-data/index.htm"> Surveys and data </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/publications-research/economics/impact/index.htm"> Assessing EIB impact </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/stories/economics/index.htm"> Stories - Economics </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/publications-research/economics/conferences-networks/index.htm"> Economic conferences and research networks </a> </li>
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--second"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/infocentre/eib-open-data.htm"> EIB open data </a> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--second"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/publications-research/open-learning/index.htm"> Open learning </a> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+</ul>
+</div>
+</div>
+</div>
+</ul>
+</div>
+</div>
+</div>
+<div class="">
+<li class="eib-mega-menu__item eib-mega-menu__item--has-children eib-mega-menu__item--first"> Work with us
+<svg width="11" height="17" viewbox="0 0 11 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 14.8775L6.43425 8.42915L0 1.98085L1.98085 0L10.41 8.42915L1.98085 16.8583L0 14.8775Z"></path>
+</svg> </li>
+<div class="eib-mega-menu__second">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--second"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/infocentre/eib-and-you.htm">Overview</a> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--has-children eib-mega-menu__item--second"> Careers
+<svg width="11" height="17" viewbox="0 0 11 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 14.8775L6.43425 8.42915L0 1.98085L1.98085 0L10.41 8.42915L1.98085 16.8583L0 14.8775Z"></path>
+</svg> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/about/careers/index">Overview</a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/about/careers/diversity-equity-and-inclusion/index"> Diversity, Equity and Inclusion </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/about/careers/benefits/index"> Salary and benefits </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/about/careers/recruitment-process/index"> Recruitment process </a> </li>
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--has-children eib-mega-menu__item--second"> Investor Relations
+<svg width="11" height="17" viewbox="0 0 11 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 14.8775L6.43425 8.42915L0 1.98085L1.98085 0L10.41 8.42915L1.98085 16.8583L0 14.8775Z"></path>
+</svg> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/investor-relations/index.htm">Overview</a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/investor-relations/products/index.htm"> Our funding </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/investor-relations/sustainable-finance/index"> Climate and Sustainability Awareness Bonds </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/investor-relations/recentissues/index.htm"> Recent issues </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/investor-relations/outstanding-issues/index.htm"> Outstanding issues </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/investor-relations/press/index.htm"> Investor relations news </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/investor-relations/publications/index.htm"> Investor relations publications </a> </li>
+<li class="eib-mega-menu__item eib-mega-menu__item--third"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/investor-relations/newsletter/index.htm"> Investor relations newsletters </a> </li>
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--second"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/about/partners/cso/index.htm"> Civil society and stakeholder engagement </a> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--second"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/about/procurement/index.htm"> Procurement </a> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--second"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/media-centre/contact/index"> Contact us </a> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+</ul>
+</div>
+</div>
+</div>
+</ul>
+</div>
+</div>
+</div>
+<div class="">
+<li class="eib-mega-menu__item eib-mega-menu__item--has-children eib-mega-menu__item--first"> Easy-to-read
+<svg width="11" height="17" viewbox="0 0 11 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 14.8775L6.43425 8.42915L0 1.98085L1.98085 0L10.41 8.42915L1.98085 16.8583L0 14.8775Z"></path>
+</svg> </li>
+<div class="eib-mega-menu__second">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+<div>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--second"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/easy-to-read/eib-at-a-glance"> The EIB at a glance </a> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--second"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/easy-to-read/global"> The EIB and development </a> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--second"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/easy-to-read/climate-action"> The EIB and climate action </a> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--second"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/easy-to-read/eib-smes"> The EIB and SMEs </a> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--second"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/easy-to-read/eib-ukraine"> The EIB and Ukraine </a> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+</ul>
+</div>
+</div>
+</div>
+<div>
+<li class="eib-mega-menu__item eib-mega-menu__item--second"> <a class="eib-mega-menu__link" href="https://www.eib.org/en/easy-to-read/covid-19-response"> The EIB COVID-19 response </a> </li>
+<div class="eib-mega-menu__third">
+<div class="eib-mega-menu__container">
+<span class="eib-mega-menu__back">back</span>
+<ul class="eib-mega-menu__list">
+</ul>
+</div>
+</div>
+</div>
+</ul>
+</div>
+</div>
+</div>
+</ul>
+</div>
+<div class="eib-mega-menu__results">
+<div class="eib-mega-menu__results-head">
+<span class="eib-typography__secondary-label eib-mega-menu__search-label">Results</span>
+<br />
+<span class="eib-mega-menu__results-title">Top 5 search results</span>
+<a href="https://www.eib.org/en/search.htm" class="eib-typography__secondary-label eib-mega-menu__search-label eib-mega-menu__search-label--advanced">See all results <i class="far fa-arrow-right"></i></a>
+<a href="https://www.eib.org/en/search.htm" class="eib-typography__secondary-label eib-mega-menu__search-label eib-mega-menu__search-label--advanced-static">Advanced search <i class="far fa-arrow-right"></i></a>
+</div>
+<div class="eib-mega-menu__results-top">
+<span class="eib-mega-menu__results-title-search-keywords">Top searches</span>
+<ul class="eib-mega-menu__results-popular-queries">
+</ul>
+</div>
+<div class="eib-mega-menu__results-page">
+<span class="eib-mega-menu__results-title-search-most-visited">Most visited pages</span>
+<ul class="eib-mega-menu__results-popular-results">
+</ul>
+</div>
+<ul class="eib-mega-menu__results-list">
+</ul>
+</div>
+</div>
+</div>
+<div class="eib-mega-menu__overlay"></div>
+</menu>
+<div class="eib-title eib-title--bg eib-title--hero eib-title--bg-full eib-title__banner-default clearfix eib-hero__overlay--20 js-animate-in js-animate-in--staggered js-animate-in--force-on-load dark-bg">
+<div class="eib-hero__overlay xs-hidden sm-visible eib-hero__overlay--20">
+<img class="lozad" data-src="https://www.eib.org/photos/download.do?documentId=2b2bf44c-869e-4049-8890-88cb33a3ef13&binaryType=WB" src="https://www.eib.org/photos/download.do?documentId=2b2bf44c-869e-4049-8890-88cb33a3ef13&binaryType=XS">
+</div>
+<div class="eib-title__content eib-layout eib-layout--contained-col-8 eib-layout--align-left-contained eib-title__main clearfix">
+<div class=" eib-typography pt-0 mt-0">
+<h1 class="eib-title__title eib-typography__title js-animate-in__item delay-300 js-animate-in__item delay-100">Mobilising up to €8 billion for Europe's wind industry</h1>
+<div class="eib-title__subtitle eib-typography__body js-animate-in__item delay-200">
+<p>This new initiative will support new wind farm projects, their supply chain and power grid interconnection across the European Union.</p>
+</div>
+</div>
+<div class="call-to-action float-left">
+<a class="eib-button eib-button--primary eib-title__button js-animate-in__item delay-300 mt-0" href="/en/press/all/2025-011-france-la-bei-et-societe-generale-annoncent-un-accord-pour-stimuler-les-investissements-dans-l-industrie-eolienne-jusqu-a-8-milliards-d-euros" target='_blank'>
+Learn more
+<em class="fa fa-arrow-right" >&#160;</em>
+</a>
+</div>
+</div>
+<div class="eib-hero__overlay eib-hero__overlay--in-header eib-hero__overlay--20 xs-visible sm-hidden eib-hero__overlay--in-title">
+<img class="lozad" data-src="https://www.eib.org/photos/download.do?documentId=2b2bf44c-869e-4049-8890-88cb33a3ef13&binaryType=WB" src="https://www.eib.org/photos/download.do?documentId=2b2bf44c-869e-4049-8890-88cb33a3ef13&binaryType=XS">
+<div class="eib-header-overlay"></div>
+</div>
+<div class="eib-title__cards" id="eib-cards">
+<div class="eib-layout eib-layout--thirds js-animate-in js-animate-in--staggered " style="z-index:999;">
+<div class="eib-layout__row">
+<div class="eib-layout__col js-animate-in__item delay-100">
+<a class="eib-image-card" href="/en/videos/one-week-one-minute" target="" style="background-image:url('https://www.eib.org/photos/download.do?documentId=f7a05b7f-4266-4001-b4d2-4a89fccbe831&binaryType=M')">
+<div class="eib-image-card__content">
+<div class="eib-image-card__title">
+One Week, One Minute: new projects in Germany, Spain, The Netherlands and France
+</div>
+</div>
+</a>
+</div>
+<div class="eib-layout__col js-animate-in__item delay-200">
+<a class="eib-image-card" href="/en/stories/gropper-dairy-agriculture-modernise-germany" target="" style="background-image:url('https://www.eib.org/photos/download.do?documentId=1ba8d2eb-b5e4-4d93-a4b5-a70d9e39b01e&binaryType=M')">
+<div class="eib-image-card__content">
+<div class="eib-image-card__title">
+Family-owned dairy in Germany innovates products while cutting emissions
+</div>
+</div>
+</a>
+</div>
+<div class="eib-layout__col js-animate-in__item delay-300">
+<a class="eib-image-card" href="/en/publications/20240233-eib-group-product-catalogue" target="" style="background-image:url('https://www.eib.org/photos/download.do?documentId=2614273d-30a7-43a1-a947-a5215017ec06&binaryType=M')">
+<div class="eib-image-card__content">
+<div class="eib-image-card__title">
+Learn about our products
+</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+<a class="eib-title__more-arrow js-animate-in__item delay-600" href="#content"><span class="hide">Go down</span></a>
+</div>
+</div>
+</div>
+</header>
+<main id="content">
+<section class="eib-section eib-section--none">
+<div class="eib-layout eib-layout--full">
+<div class="alert-message text-center alert-ukraine">
+<a href="/en/projects/topics/eib-solidarity-ukraine.htm?sortColumn=StartDate&sortDir=desc&pageNumber=0&itemPerPage=10&pageable=true&language=EN&defaultLanguage=EN&tags=ukraine-solidarity&ortags=true">
+Latest news on the EIB's support for Ukraine
+<span class="fa fa-angle-right ml-0"></span>
+</a>
+</div>
+</div>
+</section>
+<section id="78680858635902" class="eib-section eib-section--grey contentText__component teaser__component ">
+<div class="eib-layout eib-layout--halves[6/5] js-animate-in js-animate-in--fade">
+<div class="eib-layout__row">
+<div class="eib-layout__col eib-split-text__content eib-typography ">
+<div class="eib-layout--contained-col-8 eib-component--title">
+<h2 class="eib-section-title eib-component--section-title eib-typography__section-title pt-4 pb-4 js-animate-in__item delay-100">WHO WE ARE</h2>
+<h3 class="eib-heading-4 eib-section-heading js-animate-in__item delay-100">The EIB is the bank of the European Union</h3>
+</div>
+<div class="eib-content-text eib-typography__body footer-section-in js-animate-in__item delay-300 js-animate-in__item delay-300 contentText contentText__component eib-component--item">
+<p>We invest in a sustainable future for all. Discover our <a href="/en/about/at-a-glance/eib-core-strategic-priorities">priorities</a> and <a href="https://www.eib.org/en/about/key_figures/index">key dates and figures</a></p>
+</div>
+<div class="call-to-action float-left">
+<a class="eib-button eib-button--primary eib-title__button js-animate-in__item delay-400 mt-0" href="https://www.eib.org/about/index.htm" >
+See more
+<em class="fa fa-arrow-right" >&#160;</em>
+</a>
+</div>
+</div>
+<div class="eib-layout__col eib-split-text__content eib-typography ">
+<div class="eib-horizontal-card js-animate-in__item delay-200 teaser teaser__component eib-component--item">
+<div class="eib-horizontal-card__image-wrapper">
+<img class="eib-horizontal-card__image lozad" data-src="https://www.eib.org/photos/download.do?documentId=fb49d75d-8b81-4de5-8312-4957e1b285a9&binaryType=WL"/>
+</div>
+<div class="eib-horizontal-card__content">
+<div class="eib-section-title">EIB President</div>
+<div class="eib-card-title">Nadia Calviño</div>
+<div class="mt-6 overflow-hidden float-left eib-button eib-button--icon-with-text">
+<a class="teaser teaser__component eib-component--item" href="/about/governance-and-structure/statutory-bodies/management-committee/nadia-calvino">
+Read more
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="77619804498524" class="eib-section eib-section--white picture__component contentText__component ">
+<div class="eib-layout eib-layout--halves[6/5] js-animate-in js-animate-in--wipe[right]">
+<div class="eib-layout__row">
+<div class="eib-layout__col eib-split-text__content eib-typography media--centered">
+<figure class="eib-figure picture picture__component eib-component--item">
+<picture class="lozad" style="display: block; min-height: 1rem" data-iesrc="https://www.eib.org/photos/download.do?documentId=0364418e-9279-4696-b720-a758302a9211&binaryType=XL" data-alt="">
+<source media="(max-width: 480px)" srcset="https://www.eib.org/photos/download.do?documentId=0364418e-9279-4696-b720-a758302a9211&binaryType=M">
+<source media="(max-width: 767px)" srcset="https://www.eib.org/photos/download.do?documentId=0364418e-9279-4696-b720-a758302a9211&binaryType=WL">
+<source media="(min-width: 768px)" srcset="https://www.eib.org/photos/download.do?documentId=0364418e-9279-4696-b720-a758302a9211&binaryType=WXL">
+<source media="(min-width: 1200px)" srcset="https://www.eib.org/photos/download.do?documentId=0364418e-9279-4696-b720-a758302a9211&binaryType=XL">
+<img class="eib-rounded-item" src="data:image/jpeg;base64,/some_lqip_in_base_64==https://www.eib.org/photos/download.do?documentId=0364418e-9279-4696-b720-a758302a9211&binaryType=XL">
+<figcaption class="eib-typography__primary-label pt-2">
+</figcaption>
+</picture>
+</figure>
+</div>
+<div class="eib-layout__col eib-split-text__content eib-typography ">
+<div class="eib-layout--contained-col-8 eib-component--title">
+<h2 class="eib-section-title eib-component--section-title eib-typography__section-title pt-4 pb-4 js-animate-in__item delay-100">Investment to safeguard Europe</h2>
+<h3 class="eib-heading-3 js-animate-in__item delay-100">Investing in our safety</h3>
+</div>
+<div class="eib-content-text eib-typography__body footer-section-in js-animate-in__item delay-300 js-animate-in__item delay-300 contentText contentText__component eib-component--item">
+<p>The European Investment Bank Group focuses on Europe's safety by funding security and defence projects. Our Security and Defence Office is the one-stop shop for financial support and expert assistance for businesses and innovators.</p>
+</div>
+<div class="call-to-action float-left">
+<a class="eib-button eib-button--primary eib-title__button js-animate-in__item delay-400 mt-0" href="/en/projects/topics/innovation-digital-and-human-capital/sesi/index" target='_blank'>
+Find out more
+<em class="fa fa-arrow-right" >&#160;</em>
+</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="37457900462403" class="eib-section eib-section--white contentText__component contentText__component ">
+<div class="eib-layout eib-layout--halves[5/6] js-animate-in js-animate-in--wipe[left]">
+<div class="eib-layout__row">
+<div class="eib-layout__col eib-split-text__content eib-typography ">
+<div class="eib-layout--contained-col-8 eib-component--title">
+<h2 class="eib-section-title eib-component--section-title eib-typography__section-title pt-4 pb-4 js-animate-in__item delay-100">IN THE SPOTLIGHT</h2>
+<h3 class="eib-heading-3 js-animate-in__item delay-100">The EU climate bank</h3>
+</div>
+<div class="eib-content-text eib-typography__body footer-section-in js-animate-in__item delay-300 js-animate-in__item delay-300 contentText contentText__component eib-component--item">
+<p>The European Investment Bank is one of the world’s main financers of climate action. The decade 2021-2030 is critical to address our planet's climate and environment emergency. To achieve this, trillions of investment are required. The European Union and the EIB play a leading role in implementing the Paris Agreement. We place<strong> </strong>sustainability at the heart of our activities.</p>
+</div>
+<div class="call-to-action float-left">
+<a class="eib-button eib-button--primary eib-title__button js-animate-in__item delay-400 mt-0" href="/en/projects/topics/climate-action/index" target='_blank'>
+Learn more
+<em class="fa fa-arrow-right" >&#160;</em>
+</a>
+</div>
+</div>
+<div class="eib-layout__col eib-split-text__content eib-typography ">
+<div class="eib-content-text eib-typography__body js-animate-in__item delay-300 js-animate-in__item delay-300 contentText contentText__component eib-component--item">
+<iframe title="2023 EIB Climate Action & Environmental Sustainability Finance, own Resources, expressed in billion euros" aria-label="Donut Chart" id="datawrapper-chart-yMwDx" src="https://datawrapper.dwcdn.net/yMwDx/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="571" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();</script>
+<p> </p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="20435709183393" class="eib-section eib-section--grey picture__component contentText__component ">
+<div class="eib-layout eib-layout--halves[6/5] ">
+<div class="eib-layout__row">
+<div class="eib-layout__col eib-split-text__content eib-typography media--centered">
+<figure class="eib-figure picture picture__component eib-component--item">
+<picture class="lozad" style="display: block; min-height: 1rem" data-iesrc="https://www.eib.org/photos/download.do?documentId=67626974-f361-487e-b887-42e297a20e55&binaryType=XL" data-alt="">
+<source media="(max-width: 480px)" srcset="https://www.eib.org/photos/download.do?documentId=67626974-f361-487e-b887-42e297a20e55&binaryType=M">
+<source media="(max-width: 767px)" srcset="https://www.eib.org/photos/download.do?documentId=67626974-f361-487e-b887-42e297a20e55&binaryType=WL">
+<source media="(min-width: 768px)" srcset="https://www.eib.org/photos/download.do?documentId=67626974-f361-487e-b887-42e297a20e55&binaryType=WXL">
+<source media="(min-width: 1200px)" srcset="https://www.eib.org/photos/download.do?documentId=67626974-f361-487e-b887-42e297a20e55&binaryType=XL">
+<img class="eib-rounded-item" src="data:image/jpeg;base64,/some_lqip_in_base_64==https://www.eib.org/photos/download.do?documentId=67626974-f361-487e-b887-42e297a20e55&binaryType=XL">
+<figcaption class="eib-typography__primary-label pt-2">
+</figcaption>
+</picture>
+</figure>
+</div>
+<div class="eib-layout__col eib-split-text__content eib-typography ">
+<div class="eib-layout--contained-col-8 eib-component--title">
+<h2 class="eib-section-title eib-component--section-title eib-typography__section-title pt-4 pb-4 ">WHERE WE WORK</h2>
+<h3 class="eib-heading-3 ">Global investment map</h3>
+</div>
+<div class="eib-content-text eib-typography__body footer-section-in contentText contentText__component eib-component--item">
+<p>The EIB has invested in thousands of companies and projects, both across the EU and beyond, since 1959. Find out how much we invested in your country, see our financing as a percentage of a country’s gross domestic product (GDP) and filter the results by period and sector.</p>
+</div>
+<div class="call-to-action float-left">
+<a class="eib-button eib-button--primary eib-title__button mt-0" href="https://www.eib.org/projects/map" >
+Explore the map
+<em class="fa fa-arrow-right" >&#160;</em>
+</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="70590747089650" class="eib-section eib-section--white contentText__component cardCarouselManual__component ">
+<div class="eib-layout eib-layout--halves ">
+<div class="eib-layout__row">
+<div class="eib-layout__col eib-split-text__content eib-typography ">
+<div class="eib-layout--contained-col-8 eib-component--title">
+<h3 class="eib-heading-3 ">Publications</h3>
+</div>
+<div class="eib-content-text eib-typography__body footer-section-in contentText contentText__component eib-component--item">
+<div class="autocomplete-search mb-6">
+<p>Explore our books, reports, strategies and studies through our Publications library.</p>
+<form _lpchecked="1" accept-charset="UTF-8" action="/en/publications/all/index.htm" class="mt-12 eib-form js-animate-in__item delay-150 search-filter__search-component" method="get">
+<div class="eib-field-group eib-field-group--search"><input accesskey="s" autocomplete="off" class="search-filter__search-input autocomplete-search__input autocomplete-search__input--publication ui-autocomplete-input eib-field-group__input" name="q" placeholder="Find a publication" type="text" /><button class="search-filter__search-button eib-field-group__icon" type="submit"> </button></div>
+</form>
+</div>
+</div>
+<div class="call-to-action float-left">
+<a class="eib-button eib-button--primary eib-title__button mt-0" href="https://www.eib.org/publications/index" >
+All publications
+<em class="fa fa-arrow-right" >&#160;</em>
+</a>
+</div>
+</div>
+<div class="eib-layout__col eib-split-text__content eib-typography ">
+<div class="eib-publication-carousel eib-carousel eib-carousel--enhanced
+eib-carousel--three-up" data-dynamic="false">
+<div class="eib-carousel__container">
+<div class="eib-carousel__carousel swiper-container swiper-container-initialized swiper-container-horizontal">
+<ul class="eib-carousel__items swiper-wrapper" data-number-slide="3">
+<li class="eib-carousel__item swiper-slide">
+<a class="eib-publication-teaser" href="https://www.eib.org/en/publications/20240233-eib-group-product-catalogue" >
+<img class="lozad" height="225" width="158" data-src="https://www.eib.org/photos/download.do?documentId=d553eeb2-6fae-4e67-b8a6-b2cb604d18be&amp;binaryType=S2"/>
+</a>
+</li>
+<li class="eib-carousel__item swiper-slide">
+<a class="eib-publication-teaser" href="https://www.eib.org/en/publications/20240033-finance-in-africa" >
+<img class="lozad" height="225" width="158" data-src="https://www.eib.org/photos/download.do?documentId=eb57390b-a446-45d6-bd1e-ca1ba145d813&amp;binaryType=S2"/>
+</a>
+</li>
+<li class="eib-carousel__item swiper-slide">
+<a class="eib-publication-teaser" href="https://www.eib.org/en/publications/20240238-econ-eibis-2024-eu" >
+<img class="lozad" height="225" width="158" data-src="https://www.eib.org/photos/download.do?documentId=da2eac9b-fe85-482a-aac1-6e4759e28902&amp;binaryType=S2"/>
+</a>
+</li>
+<li class="eib-carousel__item swiper-slide">
+<a class="eib-publication-teaser" href="https://www.eib.org/en/publications/20230334-eib-group-sustainability-report-2023" >
+<img class="lozad" height="225" width="158" data-src="https://www.eib.org/photos/download.do?documentId=09597212-59d3-4558-a8f1-ff2f8c98c428&amp;binaryType=S2"/>
+</a>
+</li>
+<li class="eib-carousel__item swiper-slide">
+<a class="eib-publication-teaser" href="https://www.eib.org/en/publications/20240079-eib-group-activity-in-eu-cohesion-regions-2023" >
+<img class="lozad" height="225" width="158" data-src="https://www.eib.org/photos/download.do?documentId=606e3458-3449-4389-bf9b-da5c769489c8&amp;binaryType=S2"/>
+</a>
+</li>
+<li class="eib-carousel__item swiper-slide">
+<a class="eib-publication-teaser" href="https://www.eib.org/en/publications/20240125-eib-global-impact-report-2023-2024" >
+<img class="lozad" height="225" width="158" data-src="https://www.eib.org/photos/download.do?documentId=e443e55c-502b-4f76-aacf-04dacfe648d1&amp;binaryType=S2"/>
+</a>
+</li>
+<li class="eib-carousel__item swiper-slide">
+<a class="eib-publication-teaser" href="https://www.eib.org/en/publications/20230320-financing-and-borrowing-activities-2023" >
+<img class="lozad" height="225" width="158" data-src="https://www.eib.org/photos/download.do?documentId=589bc655-c3b2-407c-9e62-c74bac74a6df&amp;binaryType=S2"/>
+</a>
+</li>
+<li class="eib-carousel__item swiper-slide">
+<a class="eib-publication-teaser" href="https://www.eib.org/en/publications/20230354-financial-report-2023" >
+<img class="lozad" height="225" width="158" data-src="https://www.eib.org/photos/download.do?documentId=8bd0ab5b-eb4d-4881-b5a8-0ac16d14ada5&amp;binaryType=S2"/>
+</a>
+</li>
+<li class="eib-carousel__item swiper-slide">
+<a class="eib-publication-teaser" href="https://www.eib.org/en/publications/20230378-eib-group-operational-plan-2024" >
+<img class="lozad" height="225" width="158" data-src="https://www.eib.org/photos/download.do?documentId=9a5c2a0b-f9d6-401a-a4dc-3dd3ed722503&amp;binaryType=S2"/>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</main>
+<footer>
+<section id="48474529245941" class="eib-section eib-section--white contentText contentText__component eib-section--none eib-size--strecht">
+<div class="eib-layout eib-layout--fluid eib-layout--single-column">
+<div class="eib-content-text eib-typography__body eib-component--item">
+<footer class="eib-footer eib-footer--full eib-footer--dm" id="footer"><!--POP UP NEWSLETTER ON FOOTER START-->
+<div class="popup-lightbox popup-newsletter-wrapper lightbox-overlay">
+<div class="newsletter-cookie">
+<div class="popup-newsletter"><a class="fa fa-close color-eib-blue close-btn"> </a>
+<div class="newsletter-popup">
+<div class="mj-form form-inline">
+<div class="newsletter-popup__header"><span class="color-eib-blue fa-5x fa-envelope-open-text fal padding-bottom-40"> </span> <span class="eib-footer__title eib-section-title">GET OUR NEWSLETTER</span>
+<p>Receive updates of the EIB Group’s activities in Europe and around the world.</p>
+<label class="developement-checkbox"> <input type="checkbox" value="true" />I’d also like to receive the EIB Global newsletter</label> <label class="publications-checkbox"> <input type="checkbox" value="true" />I’d also like to receive the EIB Publications update</label>
+<div class="eib-form-success"><span class="success-email">Thank you for subscribing.</span></div>
+</div>
+<form action="" class="eib-footer__subscription eib-footer__subscription-pop newsletter-form"><input class="eib-footer__input" placeholder="Email Address" type="email" />
+<div class="newsletter-next-step next-step next">Next</div>
+<select class="eib-footer__select eib-footer__select optional-affiliation"><option disabled="disabled" selected="selected" value="">Where do you currently work?</option><option value="Government">Government</option><option value="International/Multilateral/Bilateral organisation">International/Multilateral/Bilateral organisation</option><option value="National Promotional Bank">National Promotional Bank</option><option value="EU institution">EU institution</option><option value="Private sector">Private sector</option><option value="Civil society/NGO">Civil society/NGO</option><option value="Academia">Academia</option><option value="Student">Student</option><option value="Media/Press">Media/Press</option><option value="Other">Other</option> </select><button class="submit-newsletter__button eib-footer__button" type="submit"><span class="default">Send</span> <span class="success"> Done </span></button>
+<div class="plane">
+<div class="left"> </div>
+<div class="right"> </div>
+</div>
+<button class="submit-newsletter__button eib-footer__button" type="submit"></button>
+<div class="eib-form-helper"><span class="helper-email">Please use a valid email address</span></div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--POP UP NEWSLETTER ON FOOTER END -->
+<div class="eib-footer__layout">
+<div class="eib-footer__row">
+<div class="eib-footer__col"><img alt="European Investment Bank" class="eib-footer__logo lozad" src="/img/logos/logo23/eib-logo-hori-en.svg" />
+<p>© European Investment Bank <span id="footer-current_year">2025</span></p>
+</div>
+<div class="eib-footer__col"><span class="eib-footer__title eib-section-title">Information</span>
+<ul class="eib-footer__menu">
+<li class="eib-footer__menu-item"><a class="eib-footer__menu-link" href="/en/about/careers/index">Careers</a></li>
+<li class="eib-footer__menu-item"><a href="/en/investor-relations/index">Investor relations</a></li>
+<li class="eib-footer__menu-item"><a class="eib-footer__menu-link" href="/en/media-centre/contact/index">Contact</a></li>
+<li class="eib-footer__menu-item"><a class="eib-footer__menu-link" href="/en/fraud-warning/index">Fraud warning</a></li>
+<li class="eib-footer__menu-item"><a class="eib-footer__menu-link" href="/en/privacy/index.htm">Privacy</a></li>
+<li class="eib-footer__menu-item"><a class="eib-footer__menu-link" href="/en/terms-of-use.htm">Terms of use</a></li>
+</ul>
+</div>
+<div class="eib-footer__col"><span class="eib-footer__title eib-section-title">GET OUR NEWSLETTER</span>
+<p>Receive updates of the EIB Group’s activities in Europe and around the world.</p>
+<form action="" class="eib-footer__subscription eib-footer__subscription-footer newsletter-form"><input class="eib-footer__input" placeholder="Email Address" type="email" />
+<div class="newsletter-next-step next-step next">Next</div>
+<select class="eib-footer__select eib-footer__select optional-affiliation"><option disabled="disabled" selected="selected" value="">Where do you currently work?</option><option value="Government">Government</option><option value="International/Multilateral/Bilateral organisation">International/Multilateral/Bilateral organisation</option><option value="National Promotional Bank">National Promotional Bank</option><option value="EU institution">EU institution</option><option value="Private sector">Private sector</option><option value="Civil society/NGO">Civil society/NGO</option><option value="Academia">Academia</option><option value="Student">Student</option><option value="Media/Press">Media/Press</option><option value="Other">Other</option> </select><button class="submit-newsletter__button eib-footer__button" type="submit"><span class="default">Send</span> <span class="success"> Done </span></button>
+<div class="plane">
+<div class="left"> </div>
+<div class="right"> </div>
+</div>
+<button class="submit-newsletter__button-footer eib-footer__button" type="submit"></button>
+<div class="eib-form-helper"><span class="helper-email">Please use a valid email address</span></div>
+<div class="eib-form-success"><span class="success-email">Thank you for subscribing to the European Investment Bank’s monthly newsletter.</span></div>
+</form>
+<div class="mt-5 recaptcha-wrapper">
+<p>This form is protected by reCAPTCHA and the Google <a href="
+https://policies.google.com/privacy">Privacy Policy</a><span> and <a href="
+https://policies.google.com/terms">Terms of Service</a> apply.</span></p>
+</div>
+</div>
+</div>
+<div class="eib-footer__sub-footer">
+<div class="eib-footer__social-media"><a class="eib-footer__social-media-item" href="/rss/index.htm" title="Rss"><em class="fa fa-lg fa-rss"> </em> </a> <a class="eib-footer__social-media-item" href="http://www.facebook.com/EuropeanInvestmentBank" target="_blank" title="Facebook"> <em class="fa-facebook-f fa-lg fab"> </em> </a> <a class="eib-footer__social-media-item" href="http://www.linkedin.com/company/9360" target="_blank" title="Linkedin"> <em class="fa-lg fa-linkedin-in fab"> </em> </a> <a class="eib-footer__social-media-item" href="http://twitter.com/EIB" target="_blank" title="Twitter"> <em class="fa-brands fa-lg fa-x-twitter"> </em> </a> <a class="eib-footer__social-media-item" href="http://www.youtube.com/EIBtheEUbank" target="_blank" title="Youtube"> <em class="fa-lg fa-youtube fab"> </em> </a> <a class="eib-footer__social-media-item" href="https://www.instagram.com/europeaninvestmentbank/" target="_blank" title="Instagram"> <em class="fa-instagram fa-lg fab"> </em> </a><a class="eib-footer__social-media-item" href="https://whatsapp.com/channel/0029VaAMHR12kNFwddDgU20r" target="_blank" title="Whatsapp"> <em class="fa-whatsapp fa-lg fab"> </em> </a></div>
+<!-- <div class="eib-footer__partners"><a class="eib-footer__partner" href="https://www.eif.org/" target="_blank"><img alt="European Investment Bank Group" class="eib-footer__partner-image" src="/img/logos/logo23/eib-logo-group-en.svg" /></a></div> --></div>
+</div>
+</footer>
+<!-- Cookies policy popup -->
+<div class="cookies-home_overlay"><span class="hide"> </span></div>
+<div class="cookies-home bg-color-dark-blue " id="eib-popup-policy">
+<div class="cookies-home__top">
+<div class="cookies-home__toggle--close"> </div>
+</div>
+<div class="cookies-home__description">
+<div class="cookies-home__desc-wrap container container-col-8">
+<p>Our website uses anonymised cookies to give you the best browser experience and to collect aggregated statistics. This <span class="underline">does not include</span> online advertising cookies.</p>
+<button class="eib-button eib-button--primary eib-title__button cookies-home__button-close" id="accept_cookies_footer" type="button"><em class="fa-check fas"> </em> Accept all cookies</button><button class="eib-button eib-button--primary eib-title__button cookies-home__button-close" id="refuse_cookies_footer" type="button"><em class="fa-times fas"> </em> Refuse non essential cookies</button><a class="eib-button eib-button--secondary eib-title__button cookies-home__btn-close--cookie" href="/privacy/cookies.htm" title="Privacy">Manage cookies <em class="fa-arrow-right fas"> </em></a></div>
+</div>
+</div>
+<!-- Cookies policy HR popup -->
+<div class="cookies-hr bg-color-blue-second " id="hr-popup-policy">
+<div class="cookies-hr__top">
+<div class="cookies-hr__toggle--close"> </div>
+</div>
+<div class="cookies-hr__description">
+<div class="cookies-hr__desc-wrap container container-col-8">
+<h3>Cookies on our Careers Section</h3>
+<p style="margin-bottom: 30px;">Our website uses anonymised cookies to give you the best browser experience and to collect aggregated statistics. If you agree, this website section will also <span class="bold underline">include</span> third-party cookies used in online advertising.</p>
+<button class="eib-button eib-button--primary eib-title__button cookies-home__btn-close--cookie" id="accept_cookies_hr_footer" type="button"><em class="fa-check fas"> </em> AGREE to all</button><button class="eib-button eib-button--primary eib-title__button cookies-home__btn-close--cookie" id="refuse_cookies_footer" type="button"><em class="fa-times fas"> </em> Refuse non essential cookies</button><a class="eib-button eib-button--secondary eib-title__button cookies-home__btn-close--cookie" href="/privacy/cookies" title="Privacy">Manage cookies <em class="fa-angle-right fas"> </em> </a></div>
+</div>
+</div>
+<div class="eib-footer__alert eib-footer__alert--ukraine"><a class="fa fa-close close-btn"> </a>
+<div class="eib-layout eib-layout--contained-col-10"><a href="/projects/regions/eastern-neighbours/ukraine/eib-solidarity">Latest news on EIB's support for Ukraine </a></div>
+</div>
+<!-- <div class="popup-lightbox popup-message lightbox-overlay">
+<div class="popup-container">
+<div class="popup-box"><a class="fa fa-close fa-times color-eib-blue close-btn"> </a>
+<div class="popup-wrapper">
+<div class="popup-content">
+<p class="eib-body__text">To celebrate the International Day of Persons with Disabilities on 3 December, the EIB organises a full week of events to promote exchanges on disability inclusion with staff and expert guests. Diversity is the essence of humanity and a core value of the European Union. As the EU bank, we are committed to promote <a class="color-blue" href="https://www.eib.org/about/careers/diversity/index.htm"> diversity and inclusion</a> in everything we do.</p>
+<a class="color-blue float-right mt-3" href="https://www.eib.org/">Continue to our homepage</a></div>
+</div>
+</div>
+</div>
+</div>
+-->
+</div>
+</div>
+</section>
+</footer>
+<script charset="UTF-8" src="https://www.gstatic.com/charts/loader.js" type="text/javascript"></script>
+<script type="text/javascript" src="https://app.mailjet.com/statics/js/iframeResizer.min.js"></script>
+<script type="text/javascript" src="//cdn.curator.io/5.0/curator.embed.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="//tech.eib.org/_tools/mix/javascript/vendor.js?v=1"></script>
+<script charset="UTF-8" src="//tech.eib.org/_tools/front/js/framework/include-piwik.js" type="text/javascript"></script>
+<script type="text/javascript" src="//tech.eib.org/_tools/front/js/framework/external/lozad/lozad.min.js"></script>
+<script src="//tech.eib.org/_tools/mix/javascript/all-js-rl.js?v=1.26"></script>
+<script src="//tech.eib.org/_tools/front/js/framework/external/gsap/gsap.min.js"></script>
+<script src="https://tech.eib.org/_tools/front/js/framework/swiper-bundle.min.js?v=1.1"></script>
+<script charset="UTF-8" src="//tech.eib.org/_tools/front/js/framework/fancybox/jquery.fancybox.pack.js" type="text/javascript"></script>
+<script charset="UTF-8" src="//tech.eib.org/_tools/front/js/framework/fancybox/jquery.fancybox-media.js" type="text/javascript"></script>
+<script charset="UTF-8" src="//tech.eib.org/_tools/front/js/framework/fancybox/init-fancybox.js" type="text/javascript"></script>
+<script charset="UTF-8" src="//tech.eib.org/_tools/front/js/generic/jquery-eib.js?v=2.183" type="text/javascript"></script>
+<script charset="UTF-8" src="//tech.eib.org/_tools/front/js/generic/fm-eib.js?v=1.93" type="text/javascript" defer></script>
+<script charset="UTF-8" src="//tech.eib.org/_tools/front/js/framework/_rareloop/search-form.js " type="text/javascript"></script>
+<script charset="UTF-8" src="//tech.eib.org/_tools/mix/javascript/gallery/thumbnail-gallery.js?v=1.1"></script>
+<script src="//tech.eib.org/_tools/front/js/framework/external/gsap/ScrollTrigger.min.js"></script>
+<script charset="UTF-8" src="//tech.eib.org/_tools/mix/javascript/gsap/project-submenu.js?v=1.05"></script>
+<script charset="UTF-8" src="//tech.eib.org/_tools/front/js/framework/_rareloop/video.js?v=0.2" type="text/javascript"></script>
+<script charset="UTF-8" src="//tech.eib.org/_tools/front/js/generic/cookies-policy.js" type="text/javascript"></script>
+<script charset="UTF-8" src="//tech.eib.org/_tools/front/js/framework/_rareloop/panels.js?v=0.4" type="text/javascript" defer></script>
+<script charset="UTF-8" src="//tech.eib.org/_tools/front/js/framework/modules/jumplinks-menu/jumplinks-menu.js?v=0.3" type="text/javascript"></script>
+<script charset="UTF-8" src="//tech.eib.org/_tools/mix/javascript/pdf-icon.js?version=1.3"></script>
+<script charset="UTF-8" src="//tech.eib.org/_tools/front/js/framework/page/unsubscribe.js?v=0.2"></script>
+<script charset="UTF-8" type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=6LcjUSEbAAAAAF6hKLIbnKDrSSCkvtvJ7SuFclap"></script>
+<script charset="UTF-8" src="//tech.eib.org/_tools/front/js/framework/animations/scrollmation-gallery.js" type="text/javascript"></script>
+</body>
+</html>

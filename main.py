@@ -5,6 +5,12 @@ import requests
 import json
 import time
 
+import os 
+from dotenv import load_dotenv
+
+load_dotenv()
+user_key = os.getenv('XCB_USER_KEY')
+
 url = "https://api.crunchbase.com/v4/data/searches/organizations"
 
 payload = {
@@ -21,7 +27,7 @@ payload = {
 headers = {
     "accept": "application/json",
     "content-type": "application/json",
-    "X-cb-user-key": "dfd55c98ac9a48e9bfa600b1548820d5"
+    "X-cb-user-key": user_key
 }
 
 response = requests.post(url, json=payload, headers=headers)

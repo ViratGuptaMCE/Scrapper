@@ -10,7 +10,7 @@ from selenium.webdriver.common.by import By
 from bs4 import BeautifulSoup
 from parse import parse_with_gemini
 
-# AUTH = 'brd-customer-hl_74fc088c-zone-first_scrap:ea13gt7ollpt'
+
 # SBR_WEBDRIVER = f'https://{AUTH}@brd.superproxy.io:9515'
 # def scrape_website(website):
 #   print("Launching browser...")
