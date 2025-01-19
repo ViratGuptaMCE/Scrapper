@@ -1,5 +1,6 @@
 from langchain_ollama import OllamaLLM
 from langchain_core.prompts import ChatPromptTemplate
+import google.generativeai as genai
 
 template = (
   "You are tasked with extracting specific information from the following text content: {dom_content}. "
@@ -12,14 +13,42 @@ template = (
 
 model = OllamaLLM(model="llama3.2")
 
-def parse_with_ollama(dom_chunks,parse_description):
-  prompt = ChatPromptTemplate.from_template(template)
-  chain  = prompt | model
-  parsed_results = []
+def parse_with_ollama(html_content):
+  prompt = ChatPromptTemplate.from_template(template) 
+  chain = prompt | model 
+  parse_description = "suggest improvement for website or is there any issue with it"
+  # response = chain.invoke({"dom_content": html_content, "parse_description": parse_description}) 
+  ollama_suggestions = []
+  for i, chunk in enumerate(html_content, start=1): 
+    response = chain.invoke({"dom_content": chunk, "parse_description": parse_description}) 
+    print(f"Parsed batch {i} of {len(html_content)}") 
+    ollama_suggestions.append(response)
+  # ollama_suggestions = response.strip().split('\n') 
+  return ollama_suggestions  
+  # parsed_results = [] 
+  # for i, chunk in enumerate(dom_chunks, start=1): 
+  #   response = chain.invoke({"dom_content": chunk, "parse_description": parse_description}) 
+  #   print(f"Parsed batch {i} of {len(dom_chunks)}") 
+  #   parsed_results.append(response) 
+  # return "\n".join(parsed_results)
 
-  for i, chunk in enumerate(dom_chunks,start= 1):
-    response = chain.invoke({"dom_content" : chunk,"parse_description" : parse_description})
-    print(f"Parsed batch {i} of {len(dom_chunks)}")
-    parsed_results.append(response)
+def parse_with_gemini(html_content): 
+  genai.configure(api_key='AIzaSyCd8K77ZBX48K1lSDl0Tok60YfHQZ8K2-0') 
+  prompt = ( "suggest improvement for website or is there any issue with it {html_content} is providen to you" ) 
+  model = genai.GenerativeModel("gemini-1.5-flash")
+  response = model.generate_content( prompt.format(html_content=html_content, parse_description="suggest improvement for website or is there any issue with it") ) 
+  gemini_suggestions = response.text.strip().split('\n') 
+  print("\n\n\n",response , "\n\n\n")
+  return gemini_suggestions
 
-  return "\n".join(parsed_results)
+# def parse_with_ollama(dom_chunks,parse_description):
+#   prompt = ChatPromptTemplate.from_template(template)
+#   chain  = prompt | model
+#   parsed_results = []
+
+#   for i, chunk in enumerate(dom_chunks,start= 1):
+#     response = chain.invoke({"dom_content" : chunk,"parse_description" : parse_description})
+#     print(f"Parsed batch {i} of {len(dom_chunks)}")
+#     parsed_results.append(response)
+
+#   return "\n".join(parsed_results)
